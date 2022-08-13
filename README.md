@@ -35,11 +35,18 @@
 
 asterisks ** or **bold links** denote premium-only plans
 
-asterisk * denotes premium-only problems
+asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programming marked so far)
 
 # [Programming Skills](https://leetcode.com/study-plan/programming-skills/)
 
 ## Programming Skills I
+
+<details>
+  
+  <summary>List contains 34 problems (click to expand)</summary>
+  
+  <br>
+  
 + 1523\. Count Odd Numbers in an Interval Range
 + 1491\. Average Salary Excluding the Minimum and Maximum Salary
 + 191\. Number of 1 Bits
@@ -74,8 +81,17 @@ asterisk * denotes premium-only problems
 + 217\. Contains Duplicate
 + 1603\. Design Parking System
 + 303\. Range Sum Query - Immutable
+  
+</details>
 
 ## Programming Skills II
+
+<details>
+  
+  <summary>List contains 41 problems (click to expand)</summary>
+  
+  <br>
+  
 + 896\. Monotonic Array
 + 28\. Implement strStr()
 + 110\. Balanced Binary Tree
@@ -117,8 +133,17 @@ asterisk * denotes premium-only problems
 + 380\. Insert Delete GetRandom O(1)
 + 622\. Design Circular Queue
 + 729\. My Calendar I
+  
+</details>
 
 ## Programming Skills III\*\*
+
+<details>
+  
+  <summary>List contains 54 problems (click to expand)</summary>
+  
+  <br>
+  
 + 1634\. Add Two Polynomials Represented as Linked Lists
 + 369\. Plus One Linked List
 + 1836\. Remove Duplicates From an Unsorted Linked List
@@ -173,8 +198,16 @@ asterisk * denotes premium-only problems
 + 381\. Insert Delete GetRandom O(1) - Duplicates allowed
 + 1396\. Design Underground System
 + 715\. Range Module
+  
+</details>
 
 # [Data Structure](https://leetcode.com/study-plan/data-structure/)
+
+<details>
+  
+  <summary>List contains 33 problems (click to expand)</summary>
+  
+  <br>
 
 ## Data Structure I
 + 217\. Contains Duplicate	
@@ -210,8 +243,17 @@ asterisk * denotes premium-only problems
 + 98\. Validate Binary Search Tree	
 + 653\. Two Sum IV - Input is a BST	
 + 235\. Lowest Common Ancestor of a Binary Search Tree	
+  
+</details>
 
 ## Data Structure II
+
+<details>
+  
+  <summary>List contains 50 problems (click to expand)</summary>
+  
+  <br>
+  
 + 136\. Single Number
 + 169\. Majority Element
 + 15\. 3Sum
@@ -262,8 +304,17 @@ asterisk * denotes premium-only problems
 + 347\. Top K Frequent Elements
 + 451\. Sort Characters By Frequency
 + 973\. K Closest Points to Origin
+  
+</details>
 
 ## Data Structure III\*\*
+
+<details>
+  
+  <summary>List contains 60 problems (click to expand)</summary>
+  
+  <br>
+  
 + 325\. Maximum Size Subarray Sum Equals k
 + 1151\. Minimum Swaps to Group All 1's Together
 + 1588\. Sum of All Odd Length Subarrays
@@ -324,8 +375,16 @@ asterisk * denotes premium-only problems
 + 212\. Word Search II
 + 336\. Palindrome Pairs
 + 642\. Design Search Autocomplete System
+  
+</details>
 
 # [Algorithm](https://leetcode.com/study-plan/algorithm/)
+
+<details>
+  
+  <summary>List contains 31 problems (click to expand)</summary>
+  
+  <br>
 
 ## Algorithm I
 + 704\. Binary Search
@@ -359,8 +418,17 @@ asterisk * denotes premium-only problems
 + 191\. Number of 1 Bits
 + 190\. Reverse Bits
 + 136\. Single Number
+  
+</details>
 
 ## Algorithm II
+
+<details>
+  
+  <summary>List contains 47 problems (click to expand)</summary>
+  
+  <br>
+  
 + 34\. Find First and Last Position of Element in Sorted Array
 + 33\. Search in Rotated Sorted Array
 + 74\. Search a 2D Matrix
@@ -408,8 +476,17 @@ asterisk * denotes premium-only problems
 + 384\. Shuffle an Array
 + 202\. Happy Number
 + 149\. Max Points on a Line
+  
+</details>
 
 ## Algorithm III\*\*
+
+<details>
+  
+  <summary>List contains 60 problems (click to expand)</summary>
+  
+  <br>
+  
 + 1060\. Missing Element in Sorted Array
 + 1901\. Find a Peak Element II
 + 1231\. Divide Chocolate
@@ -470,8 +547,16 @@ asterisk * denotes premium-only problems
 + 981\. Time Based Key-Value Store
 + 715\. Range Module
 + 460\. LFU Cache
+  
+</details>
 
 # [Graph Theory](https://leetcode.com/study-plan/graph-theory/)
+
+<details>
+  
+  <summary>List contains 32 problems (click to expand)</summary>
+  
+  <br>
 
 ## Graph Theory I
 + 733\. Flood Fill	
@@ -506,8 +591,17 @@ asterisk * denotes premium-only problems
 + 1615\. Maximal Network Rank	
 + 886\. Possible Bipartition	
 + 785\. Is Graph Bipartite?	
+  
+</details>
 
 ## Graph Theory II\*\*
+
+<details>
+  
+  <summary>List contains 53 problems (click to expand)</summary>
+  
+  <br>
+  
 + 261\. Graph Valid Tree\*
 + 684\. Redundant Connection
 + 685\. Redundant Connection II
@@ -561,8 +655,16 @@ asterisk * denotes premium-only problems
 + 834\. Sum of Distances in Tree
 + 1494\. Parallel Courses II
 + 1192\. Critical Connections in a Network
+  
+</details>
 
 # [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
+
+<details>
+  
+  <summary>List contains 46 problems (click to expand)</summary>
+  
+  <br>
 
 ## Dynamic Programming I
 + 509\. Fibonacci Number
@@ -611,8 +713,17 @@ asterisk * denotes premium-only problems
 + 377\. Combination Sum IV
 + 343\. Integer Break
 + 279\. Perfect Squares
+  
+</details>
 
 ## Dynamic Programming II\*\*
+
+<details>
+  
+  <summary>List contains 49 problems (click to expand)</summary>
+  
+  <br>
+  
 + 509\. Fibonacci Number	
 + 70\. Climbing Stairs	
 + 746\. Min Cost Climbing Stairs	
@@ -662,8 +773,17 @@ asterisk * denotes premium-only problems
 + 279\. Perfect Squares
 + 416\. Partition Equal Subset Sum
 + 494\. Target Sum
+  
+</details>
 
 ## Dynamic Programming III\*\*
+
+<details>
+  
+  <summary>List contains 50 problems (click to expand)</summary>
+  
+  <br>
+  
 + 1884\. Egg Drop With 2 Eggs and N Floors
 + 887\. Super Egg Drop
 + 123\. Best Time to Buy and Sell Stock III
@@ -715,7 +835,16 @@ asterisk * denotes premium-only problems
 + 1273\. Delete Tree Nodes\*
 + 568\. Maximum Vacation Days\*
 
+</details>
+
 ## Dynamic Programming IV\*\*
+
+<details>
+  
+  <summary>List contains 60 problems (click to expand)</summary>
+  
+  <br>
+  
 + 123\. Best Time to Buy and Sell Stock III
 + 188\. Best Time to Buy and Sell Stock IV
 + 1751\. Maximum Number of Events That Can Be Attended II
@@ -776,10 +905,19 @@ asterisk * denotes premium-only problems
 + 1473\. Paint House III
 + 471\. Encode String with Shortest Length\*
 + 1240\. Tiling a Rectangle with the Fewest Squares
+  
+</details>
 
 # Binary Search 
 
 ## Binary Search I
+
+<details>
+  
+  <summary>List contains 23 problems (click to expand)</summary>
+  
+  <br>
+  
 + 704\. Binary Search
 + 374\. Guess Number Higher or Lower
 + 35\. Search Insert Position
@@ -804,7 +942,16 @@ asterisk * denotes premium-only problems
 + 33\. Search in Rotated Sorted Array
 + 153\. Find Minimum in Rotated Sorted Array
 
+</details>
+
 ## Binary Search II
+
+<details>
+  
+  <summary>List contains 40 problems (click to expand)</summary>
+  
+  <br>
+  
 + 209\. Minimum Size Subarray Sum
 + 611\. Valid Triangle Number
 + 658\. Find K Closest Elements
@@ -846,7 +993,16 @@ asterisk * denotes premium-only problems
 + 1201\. Ugly Number III
 + 911\. Online Election
 
+</details>
+
 ## Binary Search III\*\*
+
+<details>
+  
+  <summary>List contains 47 problems (click to expand)</summary>
+  
+  <br>
+  
 + 1213\. Intersection of Three Sorted Arrays
 + 1099\. Two Sum Less Than K
 + 1150\. Check If a Number Is Majority Element in a Sorted Array
@@ -895,9 +1051,18 @@ asterisk * denotes premium-only problems
 + 1631\. Path With Minimum Effort
 + 1782\. Count Pairs Of Nodes++ +  
 
+</details>
+
 # [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/)
 
 ## Level 1
+
+<details>
+  
+  <summary>List contains 30 problems (click to expand)</summary>
+  
+  <br>
+
 + 1480\. Running Sum of 1d Array
 + 724\. Find Pivot Index
 + 205\. Isomorphic Strings
@@ -929,7 +1094,16 @@ asterisk * denotes premium-only problems
 + 1046\. Last Stone Weight
 + 692\. Top K Frequent Words
 
+</details>
+
 ## Level 2
+
+<details>
+  
+  <summary>List contains 45 problems (click to expand)</summary>
+  
+  <br>
+  
 + 202\. Happy Number
 + 54\. Spiral Matrix
 + 1706\. Where Will the Ball Fall
@@ -975,8 +1149,17 @@ asterisk * denotes premium-only problems
 + 947\. Most Stones Removed with Same Row or Column
 + 39\. Combination Sum
 + 46\. Permutations
+  
+</details>
 
 ## Level 3\*\*
+
+<details>
+  
+  <summary>List contains 65 problems (click to expand)</summary>
+  
+  <br>
+  
 + 191\. Number of 1 Bits
 + 136\. Single Number
 + 90\. Subsets II
@@ -1042,10 +1225,19 @@ asterisk * denotes premium-only problems
 + 224\. Basic Calculator
 + 15\. 3Sum
 + 215\. Kth Largest Element in an Array
+  
+</details>
 
 # [SQL](https://leetcode.com/study-plan/sql/)
 
 ## SQL I
+
+<details>
+  
+  <summary>List contains 33 problems (click to expand)</summary>
+  
+  <br>
+  
 + 595\. Big Countries
 + 1757\. Recyclable and Low Fat Products
 + 584\. Find Customer Referee
@@ -1080,7 +1272,16 @@ asterisk * denotes premium-only problems
 + 1587\. Bank Account Summary II
 + 1084\. Sales Analysis III
 
+</details>
+
 ## SQL II\*\*
+
+<details>
+  
+  <summary>List contains 38 problems (click to expand)</summary>
+  
+  <br>
+  
 + 1699\. Number of Calls Between Two Persons
 + 1251\. Average Selling Price
 + 1571\. Warehouse Manager
@@ -1120,7 +1321,16 @@ asterisk * denotes premium-only problems
 + 550\. Game Play Analysis IV
 + 262\. Trips and Users
 
+</details>
+
 ## SQL III\*\*
+
+<details>
+  
+  <summary>List contains 29 problems (click to expand)</summary>
+  
+  <br>
+  
 + 1303\. Find the Team Size
 + 1308\. Running Total for Different Genders
 + 1501\. Countries You Can Safely Invest In
@@ -1150,3 +1360,5 @@ asterisk * denotes premium-only problems
 + 1454\. Active Users
 + 618\. Students Report By Geography
 + 2010\. The Number of Seniors and Juniors to Join the Company II
+
+</details>
