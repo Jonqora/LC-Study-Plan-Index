@@ -1,13 +1,43 @@
 # Leetcode Study Plans
 
-- [Programming Skills](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#programming-skills)
-- [Data Structure](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#data-structure)
-- [Algorithm](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#algorithm)
-- [Graph Theory](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#graph-theory)
-- [Dynamic Programming](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#dynamic-programming)
-- [Binary Search](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#binary-search)
+- [Programming Skills](#programming-skills)
+  - [Programming Skills I](#programming-skills-i)
+  - [Programming Skills II](#programming-skills-ii)
+  - **[Programming Skills III](#programming-skills-iii)**
+- [Data Structure](#data-structure)
+  - [Data Structure I](#data-structure-i)
+  - [Data Structure II](#data-structure-ii)
+  - **[Data Structure III](#data-structure-iii)**
+- [Algorithm](#algorithm)
+  - [Algorithm I](#algorithm-i)
+  - [Algorithm II](#algorithm-ii)
+  - **[Algorithm III](#algorithm-iii)**
+- [Graph Theory](#graph-theory)
+  - [Graph Theory I](#graph-theory-i)
+  - **[Graph Theory II](#graph-theory-ii)**
+- [Dynamic Programming](#dynamic-programming)
+  - [Dynamic Programming I](#dynamic-programming-i)
+  - **[Dynamic Programming II](#dynamic-programming-ii)**
+  - **[Dynamic Programming III](#dynamic-programming-iii)**
+  - **[Dynamic Programming IV](#dynamic-programming-iv)**
+- [Binary Search](#binary-search)
+  - [Binary Search I](#binary-search-i)
+  - [Binary Search II](#binary-search-ii)
+  - **[Binary Search III](#binary-search-iii)**
+- [LeetCode 75](#leetcode-75) (not yet listed)
+  - [LeetCode 75 I](#leetcode-75-i)
+  - [LeetCode 75 II](#binary-search-ii)
+  - **[Binary Search III](#binary-search-iii)**
+- [SQL](#sql) (not yet listed)
+  - [SQL I](#sql-i)
+  - [SQL II](#sql-ii)
+  - **[SQL III](#sql-iii)**
 
-# Programming Skills
+asterisks ** or **bold links** denote premium-only plans
+
+asterisk * denotes premium-only problems
+
+# [Programming Skills](https://leetcode.com/study-plan/programming-skills/)
 
 ## Programming Skills I
 1523. Count Odd Numbers in an Interval Range
@@ -88,7 +118,7 @@
 622. Design Circular Queue
 729. My Calendar I
 
-## Programming Skills III
+## Programming Skills III\*\*
 1634. Add Two Polynomials Represented as Linked Lists
 369. Plus One Linked List
 1836. Remove Duplicates From an Unsorted Linked List
@@ -144,7 +174,7 @@
 1396. Design Underground System
 715. Range Module
 
-# Data Structure
+# [Data Structure](https://leetcode.com/study-plan/data-structure/)
 
 ## Data Structure I
 217. Contains Duplicate	
@@ -233,7 +263,7 @@
 451. Sort Characters By Frequency
 973. K Closest Points to Origin
 
-## Data Structure III
+## Data Structure III\*\*
 325. Maximum Size Subarray Sum Equals k
 1151. Minimum Swaps to Group All 1's Together
 1588. Sum of All Odd Length Subarrays
@@ -295,7 +325,7 @@
 336. Palindrome Pairs
 642. Design Search Autocomplete System
 
-# Algorithm
+# [Algorithm](https://leetcode.com/study-plan/algorithm/)
 
 ## Algorithm I
 704. Binary Search
@@ -379,7 +409,7 @@
 202. Happy Number
 149. Max Points on a Line
 
-## Algorithm III
+## Algorithm III\*\*
 1060. Missing Element in Sorted Array
 1901. Find a Peak Element II
 1231. Divide Chocolate
@@ -441,7 +471,7 @@
 715. Range Module
 460. LFU Cache
 
-# Graph Theory
+# [Graph Theory](https://leetcode.com/study-plan/graph-theory/)
 
 ## Graph Theory I
 733. Flood Fill	
@@ -477,20 +507,20 @@
 886. Possible Bipartition	
 785. Is Graph Bipartite?	
 
-## Graph Theory II
-261. Graph Valid Tree
+## Graph Theory II\*\*
+261. Graph Valid Tree\*
 684. Redundant Connection
 685. Redundant Connection II
 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
-1101. The Earliest Moment When Everyone Become Friends
+1101. The Earliest Moment When Everyone Become Friends\*
 990. Satisfiability of Equality Equations
-1061. Lexicographically Smallest Equivalent String
-737. Sentence Similarity II
-1258. Synonymous Sentences
+1061. Lexicographically Smallest Equivalent String\*
+737. Sentence Similarity II\*
+1258. Synonymous Sentences\*
 1202. Smallest String With Swaps
 721. Accounts Merge
 839. Similar String Groups
-305. Number of Islands II
+305. Number of Islands II\*
 924. Minimize Malware Spread
 928. Minimize Malware Spread II
 1627. Graph Connectivity With Threshold
@@ -499,14 +529,14 @@
 207. Course Schedule
 210. Course Schedule II
 310. Minimum Height Trees
-1136. Parallel Courses
-269. Alien Dictionary
+1136. Parallel Courses\*
+269. Alien Dictionary\*
 1857. Largest Color Value in a Directed Graph
 1591. Strange Printer II
 1203. Sort Items by Groups Respecting Dependencies
-1135. Connecting Cities With Minimum Cost
+1135. Connecting Cities With Minimum Cost\*
 1584. Min Cost to Connect All Points
-1168. Optimize Water Distribution in a Village
+1168. Optimize Water Distribution in a Village\*
 778. Swim in Rising Water
 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 787. Cheapest Flights Within K Stops
@@ -515,24 +545,24 @@
 1928. Minimum Cost to Reach Destination in Time
 1368. Minimum Cost to Make at Least One Valid Path in a Grid
 743. Network Delay Time
-505. The Maze II
-499. The Maze III
+505. The Maze II\*
+499. The Maze III\*
 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 1462. Course Schedule IV
 1786. Number of Restricted Paths From First to Last Node
-323. Number of Connected Components in an Undirected Graph
-490. The Maze
-317. Shortest Distance from All Buildings
+323. Number of Connected Components in an Undirected Graph\*
+490. The Maze\*
+317. Shortest Distance from All Buildings\*
 1263. Minimum Moves to Move a Box to Their Target Location
 1345. Jump Game IV
 864. Shortest Path to Get All Keys
 913. Cat and Mouse
-694. Number of Distinct Islands
+694. Number of Distinct Islands\*
 834. Sum of Distances in Tree
 1494. Parallel Courses II
 1192. Critical Connections in a Network
 
-# Dynamic Programming
+# [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
 
 ## Dynamic Programming I
 509. Fibonacci Number
@@ -582,7 +612,7 @@
 343. Integer Break
 279. Perfect Squares
 
-## Dynamic Programming II
+## Dynamic Programming II\*\*
 509. Fibonacci Number	
 70. Climbing Stairs	
 746. Min Cost Climbing Stairs	
@@ -595,11 +625,11 @@
 714. Best Time to Buy and Sell Stock with Transaction Fee	
 309. Best Time to Buy and Sell Stock with Cooldown	
 152. Maximum Product Subarray	
-487. Max Consecutive Ones II	
+487. Max Consecutive Ones II\*
 376. Wiggle Subsequence	
-1746. Maximum Subarray Sum After One Operation	
+1746. Maximum Subarray Sum After One Operation\*
 1230. Toss Strange Coins	
-1143. Longest Common Subsequence	
+1143. Longest Common Subsequence
 1035. Uncrossed Lines	
 712. Minimum ASCII Delete Sum for Two Strings	
 300. Longest Increasing Subsequence	
@@ -609,61 +639,61 @@
 368. Largest Divisible Subset	
 647. Palindromic Substrings	
 5. Longest Palindromic Substring	
-1055. Shortest Way to Form String	
+1055. Shortest Way to Form String\*
 516. Longest Palindromic Subsequence	
 64. Minimum Path Sum	
-562. Longest Line of Consecutive One in Matrix	
-1182. Shortest Distance to Target Color	
+562. Longest Line of Consecutive One in Matrix\*
+1182. Shortest Distance to Target Color\*
 343. Integer Break	
 238. Product of Array Except Self	
 139. Word Break	
-254. Factor Combinations	
-329. Longest Increasing Path in a Matrix	
+254. Factor Combinations\*
+329. Longest Increasing Path in a Matrix
 62. Unique Paths	
 63. Unique Paths II	
-576. Out of Boundary Paths	
-650. 2 Keys Keyboard	
-361. Bomb Enemy	
-96. Unique Binary Search Trees	
+576. Out of Boundary Paths
+650. 2 Keys Keyboard
+361. Bomb Enemy\*
+96. Unique Binary Search Trees
 1130. Minimum Cost Tree From Leaf Values	
-322. Coin Change	
-518. Coin Change 2	
-39. Combination Sum	
-279. Perfect Squares	
-416. Partition Equal Subset Sum	
-494. Target Sum	
+322. Coin Change
+518. Coin Change 2
+39. Combination Sum
+279. Perfect Squares
+416. Partition Equal Subset Sum
+494. Target Sum
 
-## Dynamic Programming III
+## Dynamic Programming III\*\*
 1884. Egg Drop With 2 Eggs and N Floors
 887. Super Egg Drop
 123. Best Time to Buy and Sell Stock III
 188. Best Time to Buy and Sell Stock IV
 1751. Maximum Number of Events That Can Be Attended II
 1235. Maximum Profit in Job Scheduling
-1259. Handshakes That Don't Cross
+1259. Handshakes That Don't Cross\*
 1478. Allocate Mailboxes
 115. Distinct Subsequences
 435. Non-overlapping Intervals
 452. Minimum Number of Arrows to Burst Balloons
 72. Edit Distance
-1682. Longest Palindromic Subsequence II
-1062. Longest Repeating Substring
+1682. Longest Palindromic Subsequence II\*
+1062. Longest Repeating Substring\*
 1092. Shortest Common Supersequence
 10. Regular Expression Matching
-1216. Valid Palindrome III
-727. Minimum Window Subsequence
+1216. Valid Palindrome III\*
+727. Minimum Window Subsequence\*
 741. Cherry Pickup
 1463. Cherry Pickup II
 140. Word Break II
-351. Android Unlock Patterns
+351. Android Unlock Patterns\*
 688. Knight Probability in Chessboard
-750. Number Of Corner Rectangles
-651. 4 Keys Keyboard
-634. Find the Derangement of An Array
-1692. Count Ways to Distribute Candies
-418. Sentence Screen Fitting
+750. Number Of Corner Rectangles\*
+651. 4 Keys Keyboard\*
+634. Find the Derangement of An Array\*
+1692. Count Ways to Distribute Candies\*
+418. Sentence Screen Fitting\*
 312. Burst Balloons
-1246. Palindrome Removal
+1246. Palindrome Removal\*
 40. Combination Sum II
 983. Minimum Cost For Tickets
 1049. Last Stone Weight II
@@ -674,28 +704,28 @@
 464. Can I Win
 1140. Stone Game II
 698. Partition to K Equal Sum Subsets
-1066. Campus Bikes II
+1066. Campus Bikes II\*
 1434. Number of Ways to Wear Different Hats to Each Other
 902. Numbers At Most N Given Digit Set
 600. Non-negative Integers without Consecutive Ones
-1067. Digit Count in Range
-298. Binary Tree Longest Consecutive Sequence
-549. Binary Tree Longest Consecutive Sequence II
-333. Largest BST Subtree
-1273. Delete Tree Nodes
-568. Maximum Vacation Days
+1067. Digit Count in Range\*
+298. Binary Tree Longest Consecutive Sequence\*
+549. Binary Tree Longest Consecutive Sequence II\*
+333. Largest BST Subtree\*
+1273. Delete Tree Nodes\*
+568. Maximum Vacation Days\*
 
-## Dynamic Programming IV
+## Dynamic Programming IV\*\*
 123. Best Time to Buy and Sell Stock III
 188. Best Time to Buy and Sell Stock IV
 1751. Maximum Number of Events That Can Be Attended II
 1235. Maximum Profit in Job Scheduling
-1259. Handshakes That Don't Cross
+1259. Handshakes That Don't Cross\*
 1478. Allocate Mailboxes
 32. Longest Valid Parentheses
 1105. Filling Bookcase Shelves
 1277. Count Square Submatrices with All Ones
-361. Bomb Enemy
+361. Bomb Enemy\*
 1155. Number of Dice Rolls With Target Sum
 1269. Number of Ways to Stay in the Same Place After Some Steps
 1575. Count All Possible Routes
@@ -711,7 +741,7 @@
 1000. Minimum Cost to Merge Stones
 664. Strange Printer
 546. Remove Boxes
-294. Flip Game II
+294. Flip Game II\*
 1406. Stone Game III
 1510. Stone Game IV
 1140. Stone Game II
@@ -727,7 +757,7 @@
 1799. Maximize Score After N Operations
 1815. Maximum Number of Groups Getting Fresh Donuts
 1012. Numbers With Repeated Digits
-1067. Digit Count in Range
+1067. Digit Count in Range\*
 865. Smallest Subtree with all the Deepest Nodes
 1372. Longest ZigZag Path in a Binary Tree
 894. All Possible Full Binary Trees
@@ -740,11 +770,11 @@
 446. Arithmetic Slices II - Subsequence
 975. Odd Even Jump
 1687. Delivering Boxes from Storage to Ports
-1055. Shortest Way to Form String
+1055. Shortest Way to Form String\*
 174. Dungeon Game
 514. Freedom Trail
 1473. Paint House III
-471. Encode String with Shortest Length
+471. Encode String with Shortest Length\*
 1240. Tiling a Rectangle with the Fewest Squares
 
 # Binary Search 
@@ -816,7 +846,7 @@
 1201. Ugly Number III
 911. Online Election
 
-## Binary Search III
+## Binary Search III\*\*
 1213. Intersection of Three Sorted Arrays
 1099. Two Sum Less Than K
 1150. Check If a Number Is Majority Element in a Sorted Array
@@ -864,3 +894,26 @@
 302. Smallest Rectangle Enclosing Black Pixels
 1631. Path With Minimum Effort
 1782. Count Pairs Of Nodes
+
+# [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/)
+
+## LeetCode 75 I
+1. //questions here
+
+## LeetCode 75 II
+1. //questions here
+
+## LeetCode 75 III\*\*
+1. //questions here
+
+
+# [SQL](https://leetcode.com/study-plan/sql/)
+
+## SQL I
+1. //questions here
+
+## SQL II
+1. //questions here
+
+## SQL III\*\*
+1. //questions here
