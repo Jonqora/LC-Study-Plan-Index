@@ -28,9 +28,9 @@
   - [LeetCode 75 I](#leetcode-75-i)
   - [LeetCode 75 II](#leetcode-75-ii)
   - **[LeetCode 75 III](#leetcode-75-iii)**
-- [SQL](#sql) (not yet listed)
+- [SQL](#sql)
   - [SQL I](#sql-i)
-  - [SQL II](#sql-ii)
+  - **[SQL II](#sql-ii)**
   - **[SQL III](#sql-iii)**
 
 asterisks ** or **bold links** denote premium-only plans
@@ -40,290 +40,290 @@ asterisk * denotes premium-only problems
 # [Programming Skills](https://leetcode.com/study-plan/programming-skills/)
 
 ## Programming Skills I
-1523. Count Odd Numbers in an Interval Range
-1491. Average Salary Excluding the Minimum and Maximum Salary
-191. Number of 1 Bits
-1281. Subtract the Product and Sum of Digits of an Integer
-976. Largest Perimeter Triangle
-1779. Find Nearest Point That Has the Same X or Y Coordinate
-1822. Sign of the Product of an Array
-1502. Can Make Arithmetic Progression From Sequence
-202. Happy Number
-1790. Check if One String Swap Can Make Strings Equal
-589. N-ary Tree Preorder Traversal
-496. Next Greater Element I
-1232. Check If It Is a Straight Line
-1588. Sum of All Odd Length Subarrays
-283. Move Zeroes
-1672. Richest Customer Wealth
-1572. Matrix Diagonal Sum
-566. Reshape the Matrix
-1768. Merge Strings Alternately
-1678. Goal Parser Interpretation
-389. Find the Difference
-709. To Lower Case
-1309. Decrypt String from Alphabet to Integer Mapping
-953. Verifying an Alien Dictionary
-1290. Convert Binary Number in a Linked List to Integer
-876. Middle of the Linked List
-104. Maximum Depth of Binary Tree
-404. Sum of Left Leaves
-1356. Sort Integers by The Number of 1 Bits
-232. Implement Queue using Stacks
-242. Valid Anagram
-217. Contains Duplicate
-1603. Design Parking System
-303. Range Sum Query - Immutable
++ 1523\. Count Odd Numbers in an Interval Range
++ 1491\. Average Salary Excluding the Minimum and Maximum Salary
++ 191\. Number of 1 Bits
++ 1281\. Subtract the Product and Sum of Digits of an Integer
++ 976. Largest Perimeter Triangle
++ 1779. Find Nearest Point That Has the Same X or Y Coordinate
++ 1822. Sign of the Product of an Array
++ 1502. Can Make Arithmetic Progression From Sequence
++ 202. Happy Number
++ 1790. Check if One String Swap Can Make Strings Equal
++ 589. N-ary Tree Preorder Traversal
++ 496. Next Greater Element I
++ 1232. Check If It Is a Straight Line
++ 1588. Sum of All Odd Length Subarrays
++ 283. Move Zeroes
++ 1672. Richest Customer Wealth
++ 1572. Matrix Diagonal Sum
++ 566. Reshape the Matrix
++ 1768. Merge Strings Alternately
++ 1678. Goal Parser Interpretation
++ 389. Find the Difference
++ 709. To Lower Case
++ 1309. Decrypt String from Alphabet to Integer Mapping
++ 953. Verifying an Alien Dictionary
++ 1290. Convert Binary Number in a Linked List to Integer
++ 876. Middle of the Linked List
++ 104. Maximum Depth of Binary Tree
++ 404. Sum of Left Leaves
++ 1356. Sort Integers by The Number of 1 Bits
++ 232. Implement Queue using Stacks
++ 242. Valid Anagram
++ 217. Contains Duplicate
++ 1603. Design Parking System
++ 303. Range Sum Query - Immutable
 
 ## Programming Skills II
-896. Monotonic Array
-28. Implement strStr()
-110. Balanced Binary Tree
-459. Repeated Substring Pattern
-150. Evaluate Reverse Polish Notation
-66. Plus One
-1367. Linked List in Binary Tree
-43. Multiply Strings
-67. Add Binary
-989. Add to Array-Form of Integer
-739. Daily Temperatures
-58. Length of Last Word
-48. Rotate Image
-1886. Determine Whether Matrix Can Be Obtained By Rotation
-54. Spiral Matrix
-973. K Closest Points to Origin
-1630. Arithmetic Subarrays
-429. N-ary Tree Level Order Traversal
-503. Next Greater Element II
-556. Next Greater Element III
-1376. Time Needed to Inform All Employees
-49. Group Anagrams
-438. Find All Anagrams in a String
-713. Subarray Product Less Than K
-304. Range Sum Query 2D - Immutable
-910. Smallest Range II
-143. Reorder List
-138. Copy List with Random Pointer
-2. Add Two Numbers
-445. Add Two Numbers II
-61. Rotate List
-173. Binary Search Tree Iterator
-1845. Seat Reservation Manager
-860. Lemonade Change
-155. Min Stack
-341. Flatten Nested List Iterator
-1797. Design Authentication Manager
-707. Design Linked List
-380. Insert Delete GetRandom O(1)
-622. Design Circular Queue
-729. My Calendar I
++ 896. Monotonic Array
++ 28. Implement strStr()
++ 110. Balanced Binary Tree
++ 459. Repeated Substring Pattern
++ 150. Evaluate Reverse Polish Notation
++ 66. Plus One
++ 1367. Linked List in Binary Tree
++ 43. Multiply Strings
++ 67. Add Binary
++ 989. Add to Array-Form of Integer
++ 739. Daily Temperatures
++ 58. Length of Last Word
++ 48. Rotate Image
++ 1886. Determine Whether Matrix Can Be Obtained By Rotation
++ 54. Spiral Matrix
++ 973. K Closest Points to Origin
++ 1630. Arithmetic Subarrays
++ 429. N-ary Tree Level Order Traversal
++ 503. Next Greater Element II
++ 556. Next Greater Element III
++ 1376. Time Needed to Inform All Employees
++ 49. Group Anagrams
++ 438. Find All Anagrams in a String
++ 713. Subarray Product Less Than K
++ 304. Range Sum Query 2D - Immutable
++ 910. Smallest Range II
++ 143. Reorder List
++ 138. Copy List with Random Pointer
++ 2. Add Two Numbers
++ 445. Add Two Numbers II
++ 61. Rotate List
++ 173. Binary Search Tree Iterator
++ 1845. Seat Reservation Manager
++ 860. Lemonade Change
++ 155. Min Stack
++ 341. Flatten Nested List Iterator
++ 1797. Design Authentication Manager
++ 707. Design Linked List
++ 380. Insert Delete GetRandom O(1)
++ 622. Design Circular Queue
++ 729. My Calendar I
 
 ## Programming Skills III\*\*
-1634. Add Two Polynomials Represented as Linked Lists
-369. Plus One Linked List
-1836. Remove Duplicates From an Unsorted Linked List
-426. Convert Binary Search Tree to Sorted Doubly Linked List
-325. Maximum Size Subarray Sum Equals k
-209. Minimum Size Subarray Sum
-525. Contiguous Array
-1798. Maximum Number of Consecutive Values You Can Make
-255. Verify Preorder Sequence in Binary Search Tree
-224. Basic Calculator
-901. Online Stock Span
-241. Different Ways to Add Parentheses
-449. Serialize and Deserialize BST
-8. String to Integer (atoi)
-148. Sort List
-23. Merge k Sorted Lists
-708. Insert into a Sorted Circular Linked List
-282. Expression Add Operators
-227. Basic Calculator II
-772. Basic Calculator III
-641. Design Circular Deque
-1352. Product of the Last K Numbers
-1597. Build Binary Expression Tree From Infix Expression
-214. Shortest Palindrome
-65. Valid Number
-208. Implement Trie (Prefix Tree)
-1804. Implement Trie II (Prefix Tree)
-642. Design Search Autocomplete System
-295. Find Median from Data Stream
-895. Maximum Frequency Stack
-146. LRU Cache
-211. Design Add and Search Words Data Structure
-297. Serialize and Deserialize Binary Tree
-281. Zigzag Iterator
-348. Design Tic-Tac-Toe
-1166. Design File System
-1586. Binary Search Tree Iterator II
-1570. Dot Product of Two Sparse Vectors
-1244. Design A Leaderboard
-1628. Design an Expression Tree With Evaluate Function
-460. LFU Cache
-244. Shortest Word Distance II
-353. Design Snake Game
-251. Flatten 2D Vector
-1622. Fancy Sequence
-855. Exam Room
-635. Design Log Storage System
-631. Design Excel Sum Formula
-307. Range Sum Query - Mutable
-535. Encode and Decode TinyURL
-431. Encode N-ary Tree to Binary Tree
-381. Insert Delete GetRandom O(1) - Duplicates allowed
-1396. Design Underground System
-715. Range Module
++ 1634. Add Two Polynomials Represented as Linked Lists
++ 369. Plus One Linked List
++ 1836. Remove Duplicates From an Unsorted Linked List
++ 426. Convert Binary Search Tree to Sorted Doubly Linked List
++ 325. Maximum Size Subarray Sum Equals k
++ 209. Minimum Size Subarray Sum
++ 525. Contiguous Array
++ 1798. Maximum Number of Consecutive Values You Can Make
++ 255. Verify Preorder Sequence in Binary Search Tree
++ 224. Basic Calculator
++ 901. Online Stock Span
++ 241. Different Ways to Add Parentheses
++ 449. Serialize and Deserialize BST
++ 8. String to Integer (atoi)
++ 148. Sort List
++ 23. Merge k Sorted Lists
++ 708. Insert into a Sorted Circular Linked List
++ 282. Expression Add Operators
++ 227. Basic Calculator II
++ 772. Basic Calculator III
++ 641. Design Circular Deque
++ 1352. Product of the Last K Numbers
++ 1597. Build Binary Expression Tree From Infix Expression
++ 214. Shortest Palindrome
++ 65. Valid Number
++ 208. Implement Trie (Prefix Tree)
++ 1804. Implement Trie II (Prefix Tree)
++ 642. Design Search Autocomplete System
++ 295. Find Median from Data Stream
++ 895. Maximum Frequency Stack
++ 146. LRU Cache
++ 211. Design Add and Search Words Data Structure
++ 297. Serialize and Deserialize Binary Tree
++ 281. Zigzag Iterator
++ 348. Design Tic-Tac-Toe
++ 1166. Design File System
++ 1586. Binary Search Tree Iterator II
++ 1570. Dot Product of Two Sparse Vectors
++ 1244. Design A Leaderboard
++ 1628. Design an Expression Tree With Evaluate Function
++ 460. LFU Cache
++ 244. Shortest Word Distance II
++ 353. Design Snake Game
++ 251. Flatten 2D Vector
++ 1622. Fancy Sequence
++ 855. Exam Room
++ 635. Design Log Storage System
++ 631. Design Excel Sum Formula
++ 307. Range Sum Query - Mutable
++ 535. Encode and Decode TinyURL
++ 431. Encode N-ary Tree to Binary Tree
++ 381. Insert Delete GetRandom O(1) - Duplicates allowed
++ 1396. Design Underground System
++ 715. Range Module
 
 # [Data Structure](https://leetcode.com/study-plan/data-structure/)
 
 ## Data Structure I
-217. Contains Duplicate	
-53. Maximum Subarray	
-1. Two Sum	
-88. Merge Sorted Array	
-350. Intersection of Two Arrays II	
-121. Best Time to Buy and Sell Stock	
-566. Reshape the Matrix	
-118. Pascal's Triangle	
-36. Valid Sudoku	
-74. Search a 2D Matrix	
-387. First Unique Character in a String	
-383. Ransom Note	
-242. Valid Anagram	
-141. Linked List Cycle	
-21. Merge Two Sorted Lists	
-203. Remove Linked List Elements	
-206. Reverse Linked List	
-83. Remove Duplicates from Sorted List	
-20. Valid Parentheses	
-232. Implement Queue using Stacks	
-144. Binary Tree Preorder Traversal	
-94. Binary Tree Inorder Traversal	
-145. Binary Tree Postorder Traversal	
-102. Binary Tree Level Order Traversal	
-104. Maximum Depth of Binary Tree	
-101. Symmetric Tree	
-226. Invert Binary Tree	
-112. Path Sum	
-700. Search in a Binary Search Tree	
-701. Insert into a Binary Search Tree	
-98. Validate Binary Search Tree	
-653. Two Sum IV - Input is a BST	
-235. Lowest Common Ancestor of a Binary Search Tree	
++ 217. Contains Duplicate	
++ 53. Maximum Subarray	
++ 1. Two Sum	
++ 88. Merge Sorted Array	
++ 350. Intersection of Two Arrays II	
++ 121. Best Time to Buy and Sell Stock	
++ 566. Reshape the Matrix	
++ 118. Pascal's Triangle	
++ 36. Valid Sudoku	
++ 74. Search a 2D Matrix	
++ 387. First Unique Character in a String	
++ 383. Ransom Note	
++ 242. Valid Anagram	
++ 141. Linked List Cycle	
++ 21. Merge Two Sorted Lists	
++ 203. Remove Linked List Elements	
++ 206. Reverse Linked List	
++ 83. Remove Duplicates from Sorted List	
++ 20. Valid Parentheses	
++ 232. Implement Queue using Stacks	
++ 144. Binary Tree Preorder Traversal	
++ 94. Binary Tree Inorder Traversal	
++ 145. Binary Tree Postorder Traversal	
++ 102. Binary Tree Level Order Traversal	
++ 104. Maximum Depth of Binary Tree	
++ 101. Symmetric Tree	
++ 226. Invert Binary Tree	
++ 112. Path Sum	
++ 700. Search in a Binary Search Tree	
++ 701. Insert into a Binary Search Tree	
++ 98. Validate Binary Search Tree	
++ 653. Two Sum IV - Input is a BST	
++ 235. Lowest Common Ancestor of a Binary Search Tree	
 
 ## Data Structure II
-136. Single Number
-169. Majority Element
-15. 3Sum
-75. Sort Colors
-56. Merge Intervals
-706. Design HashMap
-119. Pascal's Triangle II
-48. Rotate Image
-59. Spiral Matrix II
-240. Search a 2D Matrix II
-435. Non-overlapping Intervals
-334. Increasing Triplet Subsequence
-238. Product of Array Except Self
-560. Subarray Sum Equals K
-415. Add Strings
-409. Longest Palindrome
-290. Word Pattern
-763. Partition Labels
-49. Group Anagrams
-43. Multiply Strings
-187. Repeated DNA Sequences
-5. Longest Palindromic Substring
-2. Add Two Numbers
-142. Linked List Cycle II
-160. Intersection of Two Linked Lists
-82. Remove Duplicates from Sorted List II
-24. Swap Nodes in Pairs
-707. Design Linked List
-25. Reverse Nodes in k-Group
-143. Reorder List
-155. Min Stack
-1249. Minimum Remove to Make Valid Parentheses
-1823. Find the Winner of the Circular Game
-108. Convert Sorted Array to Binary Search Tree
-105. Construct Binary Tree from Preorder and Inorder Traversal
-103. Binary Tree Zigzag Level Order Traversal
-199. Binary Tree Right Side View
-113. Path Sum II
-450. Delete Node in a BST
-230. Kth Smallest Element in a BST
-173. Binary Search Tree Iterator
-236. Lowest Common Ancestor of a Binary Tree
-297. Serialize and Deserialize Binary Tree
-997. Find the Town Judge
-1557. Minimum Number of Vertices to Reach All Nodes
-841. Keys and Rooms
-215. Kth Largest Element in an Array
-347. Top K Frequent Elements
-451. Sort Characters By Frequency
-973. K Closest Points to Origin
++ 136. Single Number
++ 169. Majority Element
++ 15. 3Sum
++ 75. Sort Colors
++ 56. Merge Intervals
++ 706. Design HashMap
++ 119. Pascal's Triangle II
++ 48. Rotate Image
++ 59. Spiral Matrix II
++ 240. Search a 2D Matrix II
++ 435. Non-overlapping Intervals
++ 334. Increasing Triplet Subsequence
++ 238. Product of Array Except Self
++ 560. Subarray Sum Equals K
++ 415. Add Strings
++ 409. Longest Palindrome
++ 290. Word Pattern
++ 763. Partition Labels
++ 49. Group Anagrams
++ 43. Multiply Strings
++ 187. Repeated DNA Sequences
++ 5. Longest Palindromic Substring
++ 2. Add Two Numbers
++ 142. Linked List Cycle II
++ 160. Intersection of Two Linked Lists
++ 82. Remove Duplicates from Sorted List II
++ 24. Swap Nodes in Pairs
++ 707. Design Linked List
++ 25. Reverse Nodes in k-Group
++ 143. Reorder List
++ 155. Min Stack
++ 1249. Minimum Remove to Make Valid Parentheses
++ 1823. Find the Winner of the Circular Game
++ 108. Convert Sorted Array to Binary Search Tree
++ 105. Construct Binary Tree from Preorder and Inorder Traversal
++ 103. Binary Tree Zigzag Level Order Traversal
++ 199. Binary Tree Right Side View
++ 113. Path Sum II
++ 450. Delete Node in a BST
++ 230. Kth Smallest Element in a BST
++ 173. Binary Search Tree Iterator
++ 236. Lowest Common Ancestor of a Binary Tree
++ 297. Serialize and Deserialize Binary Tree
++ 997. Find the Town Judge
++ 1557. Minimum Number of Vertices to Reach All Nodes
++ 841. Keys and Rooms
++ 215. Kth Largest Element in an Array
++ 347. Top K Frequent Elements
++ 451. Sort Characters By Frequency
++ 973. K Closest Points to Origin
 
 ## Data Structure III\*\*
-325. Maximum Size Subarray Sum Equals k
-1151. Minimum Swaps to Group All 1's Together
-1588. Sum of All Odd Length Subarrays
-452. Minimum Number of Arrows to Burst Balloons
-128. Longest Consecutive Sequence
-454. 4Sum II
-448. Find All Numbers Disappeared in an Array
-1427. Perform String Shifts
-409. Longest Palindrome
-187. Repeated DNA Sequences
-5. Longest Palindromic Substring
-44. Wildcard Matching
-214. Shortest Palindrome
-1634. Add Two Polynomials Represented as Linked Lists
-369. Plus One Linked List
-148. Sort List
-138. Copy List with Random Pointer
-430. Flatten a Multilevel Doubly Linked List
-281. Zigzag Iterator
-394. Decode String
-739. Daily Temperatures
-42. Trapping Rain Water
-402. Remove K Digits
-456. 132 Pattern
-84. Largest Rectangle in Histogram
-862. Shortest Subarray with Sum at Least K
-1602. Find Nearest Right Node in Binary Tree
-1469. Find All The Lonely Nodes
-1522. Diameter of N-Ary Tree
-337. House Robber III
-1325. Delete Leaves With a Given Value
-366. Find Leaves of Binary Tree
-124. Binary Tree Maximum Path Sum
-968. Binary Tree Cameras
-886. Possible Bipartition
-787. Cheapest Flights Within K Stops
-261. Graph Valid Tree
-547. Number of Provinces
-990. Satisfiability of Equality Equations
-1319. Number of Operations to Make Network Connected
-305. Number of Islands II
-1579. Remove Max Number of Edges to Keep Graph Fully Traversable
-323. Number of Connected Components in an Undirected Graph
-1101. The Earliest Moment When Everyone Become Friends
-253. Meeting Rooms II
-23. Merge k Sorted Lists
-378. Kth Smallest Element in a Sorted Matrix
-295. Find Median from Data Stream
-358. Rearrange String k Distance Apart
-759. Employee Free Time
-218. The Skyline Problem
-1756. Design Most Recently Used Queue
-729. My Calendar I
-1606. Find Servers That Handled Most Number of Requests
-208. Implement Trie (Prefix Tree)
-211. Design Add and Search Words Data Structure
-1858. Longest Word With All Prefixes
-212. Word Search II
-336. Palindrome Pairs
-642. Design Search Autocomplete System
++ 325. Maximum Size Subarray Sum Equals k
++ 1151. Minimum Swaps to Group All 1's Together
++ 1588. Sum of All Odd Length Subarrays
++ 452. Minimum Number of Arrows to Burst Balloons
++ 128. Longest Consecutive Sequence
++ 454. 4Sum II
++ 448. Find All Numbers Disappeared in an Array
++ 1427. Perform String Shifts
++ 409. Longest Palindrome
++ 187. Repeated DNA Sequences
++ 5. Longest Palindromic Substring
++ 44. Wildcard Matching
++ 214. Shortest Palindrome
++ 1634. Add Two Polynomials Represented as Linked Lists
++ 369. Plus One Linked List
++ 148. Sort List
++ 138. Copy List with Random Pointer
++ 430. Flatten a Multilevel Doubly Linked List
++ 281. Zigzag Iterator
++ 394. Decode String
++ 739. Daily Temperatures
++ 42. Trapping Rain Water
++ 402. Remove K Digits
++ 456. 132 Pattern
++ 84. Largest Rectangle in Histogram
++ 862. Shortest Subarray with Sum at Least K
++ 1602. Find Nearest Right Node in Binary Tree
++ 1469. Find All The Lonely Nodes
++ 1522. Diameter of N-Ary Tree
++ 337. House Robber III
++ 1325. Delete Leaves With a Given Value
++ 366. Find Leaves of Binary Tree
++ 124. Binary Tree Maximum Path Sum
++ 968. Binary Tree Cameras
++ 886. Possible Bipartition
++ 787. Cheapest Flights Within K Stops
++ 261. Graph Valid Tree
++ 547. Number of Provinces
++ 990. Satisfiability of Equality Equations
++ 1319. Number of Operations to Make Network Connected
++ 305. Number of Islands II
++ 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
++ 323. Number of Connected Components in an Undirected Graph
++ 1101. The Earliest Moment When Everyone Become Friends
++ 253. Meeting Rooms II
++ 23. Merge k Sorted Lists
++ 378. Kth Smallest Element in a Sorted Matrix
++ 295. Find Median from Data Stream
++ 358. Rearrange String k Distance Apart
++ 759. Employee Free Time
++ 218. The Skyline Problem
++ 1756. Design Most Recently Used Queue
++ 729. My Calendar I
++ 1606. Find Servers That Handled Most Number of Requests
++ 208. Implement Trie (Prefix Tree)
++ 211. Design Add and Search Words Data Structure
++ 1858. Longest Word With All Prefixes
++ 212. Word Search II
++ 336. Palindrome Pairs
++ 642. Design Search Autocomplete System
 
 # [Algorithm](https://leetcode.com/study-plan/algorithm/)
 
@@ -910,10 +910,107 @@ asterisk * denotes premium-only problems
 # [SQL](https://leetcode.com/study-plan/sql/)
 
 ## SQL I
-1. //questions here
+595. Big Countries
+1757. Recyclable and Low Fat Products
+584. Find Customer Referee
+183. Customers Who Never Order
+1873. Calculate Special Bonus
+627. Swap Salary
+196. Delete Duplicate Emails
+1667. Fix Names in a Table
+1484. Group Sold Products By The Date
+1527. Patients With a Condition
+1965. Employees With Missing Information
+1795. Rearrange Products Table
+608. Tree Node
+176. Second Highest Salary
+175. Combine Two Tables
+1581. Customer Who Visited but Did Not Make Any Transactions
+1148. Article Views I
+197. Rising Temperature
+607. Sales Person
+1141. User Activity for the Past 30 Days I
+1693. Daily Leads and Partners
+1729. Find Followers Count
+586. Customer Placing the Largest Number of Orders
+511. Game Play Analysis I
+1890. The Latest Login in 2020
+1741. Find Total Time Spent by Each Employee
+1393. Capital Gain/Loss
+1407. Top Travellers
+1158. Market Analysis I
+182. Duplicate Emails
+1050. Actors and Directors Who Cooperated At Least Three Times
+1587. Bank Account Summary II
+1084. Sales Analysis III
 
-## SQL II
-1. //questions here
+## SQL II\*\*
+1699. Number of Calls Between Two Persons
+1251. Average Selling Price
+1571. Warehouse Manager
+1445. Apples & Oranges
+1193. Monthly Transactions I
+1633. Percentage of Users Attended a Contest
+1173. Immediate Food Delivery I
+1211. Queries Quality and Percentage
+1607. Sellers With No Sales
+619. Biggest Single Number
+1112. Highest Grade For Each Student
+1398. Customers Who Bought Products A and B but Not C
+1440. Evaluate Boolean Expression
+1264. Page Recommendations
+570. Managers with at Least 5 Direct Reports
+1303. Find the Team Size
+1280. Students and Examinations
+1501. Countries You Can Safely Invest In
+184. Department Highest Salary
+580. Count Student Number in Departments
+1294. Weather Type in Each Country
+626. Exchange Seats
+1783. Grand Slam Titles
+1164. Product Price at a Given Date
+603. Consecutive Available Seats
+1731. The Number of Employees Which Report to Each Employee
+1747. Leetflex Banned Accounts
+181. Employees Earning More Than Their Managers
+1459. Rectangles Area
+180. Consecutive Numbers
+1988. Find Cutoff Score for Each School
+1549. The Most Recent Orders for Each Product
+1321. Restaurant Growth
+1045. Customers Who Bought All Products
+1341. Movie Rating
+1867. Orders With Maximum Quantity Above Average
+550. Game Play Analysis IV
+262. Trips and Users
 
 ## SQL III\*\*
-1. //questions here
+1303. Find the Team Size
+1308. Running Total for Different Genders
+1501. Countries You Can Safely Invest In
+1077. Project Employees III
+1549. The Most Recent Orders for Each Product
+1285. Find the Start and End Number of Continuous Ranges
+1596. The Most Frequently Ordered Products for Each Customer
+178. Rank Scores
+177. Nth Highest Salary
+1951. All the Pairs With the Maximum Number of Common Followers
+1709. Biggest Window Between Visits
+1949. Strong Friendship
+1532. The Most Recent Three Orders
+1126. Active Businesses
+1831. Maximum Transaction Each Day
+1613. Find the Missing IDs
+1270. All People Report to the Given Manager
+1369. Get the Second Most Recent Activity
+1412. Find the Quiet Students in All Exams
+1972. First and Last Call On the Same Day
+185. Department Top Three Salaries
+1767. Find the Subtasks That Did Not Execute
+1384. Total Sales Amount by Year
+569. Median Employee Salary
+571. Find Median Given Frequency of Numbers
+1225. Report Contiguous Dates
+1454. Active Users
+618. Students Report By Geography
+2010. The Number of Seniors and Juniors to Join the Company II
