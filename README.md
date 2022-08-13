@@ -328,239 +328,239 @@ asterisk * denotes premium-only problems
 # [Algorithm](https://leetcode.com/study-plan/algorithm/)
 
 ## Algorithm I
-704. Binary Search
-278. First Bad Version
-35. Search Insert Position
-977. Squares of a Sorted Array
-189. Rotate Array
-283. Move Zeroes
-167. Two Sum II - Input Array Is Sorted
-344. Reverse String
-557. Reverse Words in a String III
-876. Middle of the Linked List
-19. Remove Nth Node From End of List
-3. Longest Substring Without Repeating Characters
-567. Permutation in String
-733. Flood Fill
-695. Max Area of Island
-617. Merge Two Binary Trees
-116. Populating Next Right Pointers in Each Node
-542. 01 Matrix
-994. Rotting Oranges
-21. Merge Two Sorted Lists
-206. Reverse Linked List
-77. Combinations
-46. Permutations
-784. Letter Case Permutation
-70. Climbing Stairs
-198. House Robber
-120. Triangle
-231. Power of Two
-191. Number of 1 Bits
-190. Reverse Bits
-136. Single Number
++ 704. Binary Search
++ 278. First Bad Version
++ 35. Search Insert Position
++ 977. Squares of a Sorted Array
++ 189. Rotate Array
++ 283. Move Zeroes
++ 167. Two Sum II - Input Array Is Sorted
++ 344. Reverse String
++ 557. Reverse Words in a String III
++ 876. Middle of the Linked List
++ 19. Remove Nth Node From End of List
++ 3. Longest Substring Without Repeating Characters
++ 567. Permutation in String
++ 733. Flood Fill
++ 695. Max Area of Island
++ 617. Merge Two Binary Trees
++ 116. Populating Next Right Pointers in Each Node
++ 542. 01 Matrix
++ 994. Rotting Oranges
++ 21. Merge Two Sorted Lists
++ 206. Reverse Linked List
++ 77. Combinations
++ 46. Permutations
++ 784. Letter Case Permutation
++ 70. Climbing Stairs
++ 198. House Robber
++ 120. Triangle
++ 231. Power of Two
++ 191. Number of 1 Bits
++ 190. Reverse Bits
++ 136. Single Number
 
 ## Algorithm II
-34. Find First and Last Position of Element in Sorted Array
-33. Search in Rotated Sorted Array
-74. Search a 2D Matrix
-153. Find Minimum in Rotated Sorted Array
-162. Find Peak Element
-82. Remove Duplicates from Sorted List II
-15. 3Sum
-844. Backspace String Compare
-986. Interval List Intersections
-11. Container With Most Water
-438. Find All Anagrams in a String
-713. Subarray Product Less Than K
-209. Minimum Size Subarray Sum
-200. Number of Islands
-547. Number of Provinces
-117. Populating Next Right Pointers in Each Node II
-572. Subtree of Another Tree
-1091. Shortest Path in Binary Matrix
-130. Surrounded Regions
-797. All Paths From Source to Target
-78. Subsets
-90. Subsets II
-47. Permutations II
-39. Combination Sum
-40. Combination Sum II
-17. Letter Combinations of a Phone Number
-22. Generate Parentheses
-79. Word Search
-213. House Robber II
-55. Jump Game
-45. Jump Game II
-62. Unique Paths
-5. Longest Palindromic Substring
-413. Arithmetic Slices
-91. Decode Ways
-139. Word Break
-300. Longest Increasing Subsequence
-673. Number of Longest Increasing Subsequence
-1143. Longest Common Subsequence
-583. Delete Operation for Two Strings
-72. Edit Distance
-322. Coin Change
-343. Integer Break
-201. Bitwise AND of Numbers Range
-384. Shuffle an Array
-202. Happy Number
-149. Max Points on a Line
++ 34. Find First and Last Position of Element in Sorted Array
++ 33. Search in Rotated Sorted Array
++ 74. Search a 2D Matrix
++ 153. Find Minimum in Rotated Sorted Array
++ 162. Find Peak Element
++ 82. Remove Duplicates from Sorted List II
++ 15. 3Sum
++ 844. Backspace String Compare
++ 986. Interval List Intersections
++ 11. Container With Most Water
++ 438. Find All Anagrams in a String
++ 713. Subarray Product Less Than K
++ 209. Minimum Size Subarray Sum
++ 200. Number of Islands
++ 547. Number of Provinces
++ 117. Populating Next Right Pointers in Each Node II
++ 572. Subtree of Another Tree
++ 1091. Shortest Path in Binary Matrix
++ 130. Surrounded Regions
++ 797. All Paths From Source to Target
++ 78. Subsets
++ 90. Subsets II
++ 47. Permutations II
++ 39. Combination Sum
++ 40. Combination Sum II
++ 17. Letter Combinations of a Phone Number
++ 22. Generate Parentheses
++ 79. Word Search
++ 213. House Robber II
++ 55. Jump Game
++ 45. Jump Game II
++ 62. Unique Paths
++ 5. Longest Palindromic Substring
++ 413. Arithmetic Slices
++ 91. Decode Ways
++ 139. Word Break
++ 300. Longest Increasing Subsequence
++ 673. Number of Longest Increasing Subsequence
++ 1143. Longest Common Subsequence
++ 583. Delete Operation for Two Strings
++ 72. Edit Distance
++ 322. Coin Change
++ 343. Integer Break
++ 201. Bitwise AND of Numbers Range
++ 384. Shuffle an Array
++ 202. Happy Number
++ 149. Max Points on a Line
 
 ## Algorithm III\*\*
-1060. Missing Element in Sorted Array
-1901. Find a Peak Element II
-1231. Divide Chocolate
-1182. Shortest Distance to Target Color
-1229. Meeting Scheduler
-287. Find the Duplicate Number
-42. Trapping Rain Water
-1868. Product of Two Run-Length Encoded Arrays
-159. Longest Substring with At Most Two Distinct Characters
-340. Longest Substring with At Most K Distinct Characters
-1004. Max Consecutive Ones III
-239. Sliding Window Maximum
-76. Minimum Window Substring
-286. Walls and Gates
-417. Pacific Atlantic Water Flow
-1469. Find All The Lonely Nodes
-582. Kill Process
-863. All Nodes Distance K in Binary Tree
-752. Open the Lock
-1319. Number of Operations to Make Network Connected
-1368. Minimum Cost to Make at Least One Valid Path in a Grid
-1192. Critical Connections in a Network
-254. Factor Combinations
-394. Decode String
-51. N-Queens
-37. Sudoku Solver
-10. Regular Expression Matching
-241. Different Ways to Add Parentheses
-301. Remove Invalid Parentheses
-489. Robot Room Cleaner
-53. Maximum Subarray
-4. Median of Two Sorted Arrays
-315. Count of Smaller Numbers After Self
-309. Best Time to Buy and Sell Stock with Cooldown
-714. Best Time to Buy and Sell Stock with Transaction Fee
-410. Split Array Largest Sum
-337. House Robber III
-221. Maximal Square
-85. Maximal Rectangle
-486. Predict the Winner
-131. Palindrome Partitioning
-132. Palindrome Partitioning II
-416. Partition Equal Subset Sum
-983. Minimum Cost For Tickets
-123. Best Time to Buy and Sell Stock III
-174. Dungeon Game
-207. Course Schedule
-210. Course Schedule II
-310. Minimum Height Trees
-329. Longest Increasing Path in a Matrix
-1136. Parallel Courses
-269. Alien Dictionary
-260. Single Number III
-864. Shortest Path to Get All Keys
-995. Minimum Number of K Consecutive Bit Flips
-1396. Design Underground System
-146. LRU Cache
-981. Time Based Key-Value Store
-715. Range Module
-460. LFU Cache
++ 1060. Missing Element in Sorted Array
++ 1901. Find a Peak Element II
++ 1231. Divide Chocolate
++ 1182. Shortest Distance to Target Color
++ 1229. Meeting Scheduler
++ 287. Find the Duplicate Number
++ 42. Trapping Rain Water
++ 1868. Product of Two Run-Length Encoded Arrays
++ 159. Longest Substring with At Most Two Distinct Characters
++ 340. Longest Substring with At Most K Distinct Characters
++ 1004. Max Consecutive Ones III
++ 239. Sliding Window Maximum
++ 76. Minimum Window Substring
++ 286. Walls and Gates
++ 417. Pacific Atlantic Water Flow
++ 1469. Find All The Lonely Nodes
++ 582. Kill Process
++ 863. All Nodes Distance K in Binary Tree
++ 752. Open the Lock
++ 1319. Number of Operations to Make Network Connected
++ 1368. Minimum Cost to Make at Least One Valid Path in a Grid
++ 1192. Critical Connections in a Network
++ 254. Factor Combinations
++ 394. Decode String
++ 51. N-Queens
++ 37. Sudoku Solver
++ 10. Regular Expression Matching
++ 241. Different Ways to Add Parentheses
++ 301. Remove Invalid Parentheses
++ 489. Robot Room Cleaner
++ 53. Maximum Subarray
++ 4. Median of Two Sorted Arrays
++ 315. Count of Smaller Numbers After Self
++ 309. Best Time to Buy and Sell Stock with Cooldown
++ 714. Best Time to Buy and Sell Stock with Transaction Fee
++ 410. Split Array Largest Sum
++ 337. House Robber III
++ 221. Maximal Square
++ 85. Maximal Rectangle
++ 486. Predict the Winner
++ 131. Palindrome Partitioning
++ 132. Palindrome Partitioning II
++ 416. Partition Equal Subset Sum
++ 983. Minimum Cost For Tickets
++ 123. Best Time to Buy and Sell Stock III
++ 174. Dungeon Game
++ 207. Course Schedule
++ 210. Course Schedule II
++ 310. Minimum Height Trees
++ 329. Longest Increasing Path in a Matrix
++ 1136. Parallel Courses
++ 269. Alien Dictionary
++ 260. Single Number III
++ 864. Shortest Path to Get All Keys
++ 995. Minimum Number of K Consecutive Bit Flips
++ 1396. Design Underground System
++ 146. LRU Cache
++ 981. Time Based Key-Value Store
++ 715. Range Module
++ 460. LFU Cache
 
 # [Graph Theory](https://leetcode.com/study-plan/graph-theory/)
 
 ## Graph Theory I
-733. Flood Fill	
-200. Number of Islands	
-695. Max Area of Island	
-1254. Number of Closed Islands	
-1020. Number of Enclaves	
-1905. Count Sub Islands	
-1162. As Far from Land as Possible	
-417. Pacific Atlantic Water Flow	
-1091. Shortest Path in Binary Matrix	
-542. 01 Matrix	
-934. Shortest Bridge	
-1926. Nearest Exit from Entrance in Maze	
-797. All Paths From Source to Target	
-841. Keys and Rooms	
-547. Number of Provinces	
-1319. Number of Operations to Make Network Connected	
-1376. Time Needed to Inform All Employees	
-802. Find Eventual Safe States	
-1129. Shortest Path with Alternating Colors	
-1466. Reorder Routes to Make All Paths Lead to the City Zero	
-847. Shortest Path Visiting All Nodes	
-1306. Jump Game III	
-1654. Minimum Jumps to Reach Home	
-365. Water and Jug Problem	
-433. Minimum Genetic Mutation	
-752. Open the Lock	
-127. Word Ladder	
-997. Find the Town Judge	
-1557. Minimum Number of Vertices to Reach All Nodes	
-1615. Maximal Network Rank	
-886. Possible Bipartition	
-785. Is Graph Bipartite?	
++ 733. Flood Fill	
++ 200. Number of Islands	
++ 695. Max Area of Island	
++ 1254. Number of Closed Islands	
++ 1020. Number of Enclaves	
++ 1905. Count Sub Islands	
++ 1162. As Far from Land as Possible	
++ 417. Pacific Atlantic Water Flow	
++ 1091. Shortest Path in Binary Matrix	
++ 542. 01 Matrix	
++ 934. Shortest Bridge	
++ 1926. Nearest Exit from Entrance in Maze	
++ 797. All Paths From Source to Target	
++ 841. Keys and Rooms	
++ 547. Number of Provinces	
++ 1319. Number of Operations to Make Network Connected	
++ 1376. Time Needed to Inform All Employees	
++ 802. Find Eventual Safe States	
++ 1129. Shortest Path with Alternating Colors	
++ 1466. Reorder Routes to Make All Paths Lead to the City Zero	
++ 847. Shortest Path Visiting All Nodes	
++ 1306. Jump Game III	
++ 1654. Minimum Jumps to Reach Home	
++ 365. Water and Jug Problem	
++ 433. Minimum Genetic Mutation	
++ 752. Open the Lock	
++ 127. Word Ladder	
++ 997. Find the Town Judge	
++ 1557. Minimum Number of Vertices to Reach All Nodes	
++ 1615. Maximal Network Rank	
++ 886. Possible Bipartition	
++ 785. Is Graph Bipartite?	
 
 ## Graph Theory II\*\*
-261. Graph Valid Tree\*
-684. Redundant Connection
-685. Redundant Connection II
-1579. Remove Max Number of Edges to Keep Graph Fully Traversable
-1101. The Earliest Moment When Everyone Become Friends\*
-990. Satisfiability of Equality Equations
-1061. Lexicographically Smallest Equivalent String\*
-737. Sentence Similarity II\*
-1258. Synonymous Sentences\*
-1202. Smallest String With Swaps
-721. Accounts Merge
-839. Similar String Groups
-305. Number of Islands II\*
-924. Minimize Malware Spread
-928. Minimize Malware Spread II
-1627. Graph Connectivity With Threshold
-1697. Checking Existence of Edge Length Limited Paths
-352. Data Stream as Disjoint Intervals
-207. Course Schedule
-210. Course Schedule II
-310. Minimum Height Trees
-1136. Parallel Courses\*
-269. Alien Dictionary\*
-1857. Largest Color Value in a Directed Graph
-1591. Strange Printer II
-1203. Sort Items by Groups Respecting Dependencies
-1135. Connecting Cities With Minimum Cost\*
-1584. Min Cost to Connect All Points
-1168. Optimize Water Distribution in a Village\*
-778. Swim in Rising Water
-1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
-787. Cheapest Flights Within K Stops
-1631. Path With Minimum Effort
-1514. Path with Maximum Probability
-1928. Minimum Cost to Reach Destination in Time
-1368. Minimum Cost to Make at Least One Valid Path in a Grid
-743. Network Delay Time
-505. The Maze II\*
-499. The Maze III\*
-1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
-1462. Course Schedule IV
-1786. Number of Restricted Paths From First to Last Node
-323. Number of Connected Components in an Undirected Graph\*
-490. The Maze\*
-317. Shortest Distance from All Buildings\*
-1263. Minimum Moves to Move a Box to Their Target Location
-1345. Jump Game IV
-864. Shortest Path to Get All Keys
-913. Cat and Mouse
-694. Number of Distinct Islands\*
-834. Sum of Distances in Tree
-1494. Parallel Courses II
-1192. Critical Connections in a Network
++ 261. Graph Valid Tree\*
++ 684. Redundant Connection
++ 685. Redundant Connection II
++ 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
++ 1101. The Earliest Moment When Everyone Become Friends\*
++ 990. Satisfiability of Equality Equations
++ 1061. Lexicographically Smallest Equivalent String\*
++ 737. Sentence Similarity II\*
++ 1258. Synonymous Sentences\*
++ 1202. Smallest String With Swaps
++ 721. Accounts Merge
++ 839. Similar String Groups
++ 305. Number of Islands II\*
++ 924. Minimize Malware Spread
++ 928. Minimize Malware Spread II
++ 1627. Graph Connectivity With Threshold
++ 1697. Checking Existence of Edge Length Limited Paths
++ 352. Data Stream as Disjoint Intervals
++ 207. Course Schedule
++ 210. Course Schedule II
++ 310. Minimum Height Trees
++ 1136. Parallel Courses\*
++ 269. Alien Dictionary\*
++ 1857. Largest Color Value in a Directed Graph
++ 1591. Strange Printer II
++ 1203. Sort Items by Groups Respecting Dependencies
++ 1135. Connecting Cities With Minimum Cost\*
++ 1584. Min Cost to Connect All Points
++ 1168. Optimize Water Distribution in a Village\*
++ 778. Swim in Rising Water
++ 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
++ 787. Cheapest Flights Within K Stops
++ 1631. Path With Minimum Effort
++ 1514. Path with Maximum Probability
++ 1928. Minimum Cost to Reach Destination in Time
++ 1368. Minimum Cost to Make at Least One Valid Path in a Grid
++ 743. Network Delay Time
++ 505. The Maze II\*
++ 499. The Maze III\*
++ 1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance
++ 1462. Course Schedule IV
++ 1786. Number of Restricted Paths From First to Last Node
++ 323. Number of Connected Components in an Undirected Graph\*
++ 490. The Maze\*
++ 317. Shortest Distance from All Buildings\*
++ 1263. Minimum Moves to Move a Box to Their Target Location
++ 1345. Jump Game IV
++ 864. Shortest Path to Get All Keys
++ 913. Cat and Mouse
++ 694. Number of Distinct Islands\*
++ 834. Sum of Distances in Tree
++ 1494. Parallel Courses II
++ 1192. Critical Connections in a Network
 
 # [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
 
