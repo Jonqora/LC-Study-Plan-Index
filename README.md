@@ -24,10 +24,10 @@
   - [Binary Search I](#binary-search-i)
   - [Binary Search II](#binary-search-ii)
   - **[Binary Search III](#binary-search-iii)**
-- [LeetCode 75](#leetcode-75) (not yet listed)
-  - [LeetCode 75 I](#leetcode-75-i)
-  - [LeetCode 75 II](#leetcode-75-ii)
-  - **[LeetCode 75 III](#leetcode-75-iii)**
+- [LeetCode 75](#leetcode-75)
+  - [Level 1](#level-1)
+  - [Level 2](#level-2)
+  - **[Level 3](#level-3)**
 - [SQL](#sql)
   - [SQL I](#sql-i)
   - **[SQL II](#sql-ii)**
@@ -897,15 +897,151 @@ asterisk * denotes premium-only problems
 
 # [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/)
 
-## LeetCode 75 I
-1. //questions here
+## Level 1
+1480. Running Sum of 1d Array
+724. Find Pivot Index
+205. Isomorphic Strings
+392. Is Subsequence
+21. Merge Two Sorted Lists
+206. Reverse Linked List
+876. Middle of the Linked List
+142. Linked List Cycle II
+121. Best Time to Buy and Sell Stock
+409. Longest Palindrome
+589. N-ary Tree Preorder Traversal
+102. Binary Tree Level Order Traversal
+704. Binary Search
+278. First Bad Version
+98. Validate Binary Search Tree
+235. Lowest Common Ancestor of a Binary Search Tree
+733. Flood Fill
+200. Number of Islands
+509. Fibonacci Number
+70. Climbing Stairs
+746. Min Cost Climbing Stairs
+62. Unique Paths
+438. Find All Anagrams in a String
+424. Longest Repeating Character Replacement
+1. Two Sum
+299. Bulls and Cows
+844. Backspace String Compare
+394. Decode String
+1046. Last Stone Weight
+692. Top K Frequent Words
 
-## LeetCode 75 II
-1. //questions here
+## Level 2
+202. Happy Number
+54. Spiral Matrix
+1706. Where Will the Ball Fall
+14. Longest Common Prefix
+43. Multiply Strings
+19. Remove Nth Node From End of List
+234. Palindrome Linked List
+328. Odd Even Linked List
+148. Sort List
+2131. Longest Palindrome by Concatenating Two Letter Words
+621. Task Scheduler
+226. Invert Binary Tree
+110. Balanced Binary Tree
+543. Diameter of Binary Tree
+437. Path Sum III
+74. Search a 2D Matrix
+33. Search in Rotated Sorted Array
+108. Convert Sorted Array to Binary Search Tree
+230. Kth Smallest Element in a BST
+173. Binary Search Tree Iterator
+994. Rotting Oranges
+417. Pacific Atlantic Water Flow
+210. Course Schedule II
+815. Bus Routes
+198. House Robber
+322. Coin Change
+416. Partition Equal Subset Sum
+152. Maximum Product Subarray
+3. Longest Substring Without Repeating Characters
+16. 3Sum Closest
+76. Minimum Window Substring
+100. Same Tree
+101. Symmetric Tree
+199. Binary Tree Right Side View
+232. Implement Queue using Stacks
+155. Min Stack
+208. Implement Trie (Prefix Tree)
+57. Insert Interval
+56. Merge Intervals
+735. Asteroid Collision
+227. Basic Calculator II
+547. Number of Provinces
+947. Most Stones Removed with Same Row or Column
+39. Combination Sum
+46. Permutations
 
-## LeetCode 75 III\*\*
-1. //questions here
-
+## Level 3\*\*
+191. Number of 1 Bits
+136. Single Number
+90. Subsets II
+5. Longest Palindromic Substring
+49. Group Anagrams
+28. Implement strStr()
+721. Accounts Merge
+1584. Min Cost to Connect All Points
+2. Add Two Numbers
+24. Swap Nodes in Pairs
+23. Merge k Sorted Lists
+61. Rotate List
+25. Reverse Nodes in k-Group
+437. Path Sum III
+124. Binary Tree Maximum Path Sum
+105. Construct Binary Tree from Preorder and Inorder Traversal
+310. Minimum Height Trees
+662. Maximum Width of Binary Tree
+103. Binary Tree Zigzag Level Order Traversal
+863. All Nodes Distance K in Binary Tree
+787. Cheapest Flights Within K Stops
+127. Word Ladder
+815. Bus Routes
+981. Time Based Key-Value Store
+146. LRU Cache
+460. LFU Cache
+11. Container With Most Water
+239. Sliding Window Maximum
+42. Trapping Rain Water
+13. Roman to Integer
+133. Clone Graph
+150. Evaluate Reverse Polish Notation
+8. String to Integer (atoi)
+739. Daily Temperatures
+84. Largest Rectangle in Histogram
+139. Word Break
+542. 01 Matrix
+221. Maximal Square
+295. Find Median from Data Stream
+632. Smallest Range Covering Elements from K Lists
+78. Subsets
+17. Letter Combinations of a Phone Number
+79. Word Search
+134. Gas Station
+2244. Minimum Rounds to Complete All Tasks
+2136. Earliest Possible Day of Full Bloom
+300. Longest Increasing Subsequence
+1143. Longest Common Subsequence
+55. Jump Game
+329. Longest Increasing Path in a Matrix
+32. Longest Valid Parentheses
+528. Random Pick with Weight
+153. Find Minimum in Rotated Sorted Array
+658. Find K Closest Elements
+875. Koko Eating Bananas
+4. Median of Two Sorted Arrays
+31. Next Permutation
+36. Valid Sudoku
+37. Sudoku Solver
+211. Design Add and Search Words Data Structure
+380. Insert Delete GetRandom O(1)
+297. Serialize and Deserialize Binary Tree
+224. Basic Calculator
+15. 3Sum
+215. Kth Largest Element in an Array
 
 # [SQL](https://leetcode.com/study-plan/sql/)
 
