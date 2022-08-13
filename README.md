@@ -203,13 +203,14 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 # [Data Structure](https://leetcode.com/study-plan/data-structure/)
 
+## Data Structure I
+
 <details>
   
   <summary>List contains 33 problems (click to expand)</summary>
   
   <br>
 
-## Data Structure I
 + 217\. Contains Duplicate	
 + 53\. Maximum Subarray	
 + 1\. Two Sum	
@@ -380,13 +381,14 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 # [Algorithm](https://leetcode.com/study-plan/algorithm/)
 
+## Algorithm I
+
 <details>
   
   <summary>List contains 31 problems (click to expand)</summary>
   
   <br>
 
-## Algorithm I
 + 704\. Binary Search
 + 278\. First Bad Version
 + 35\. Search Insert Position
@@ -552,13 +554,14 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 # [Graph Theory](https://leetcode.com/study-plan/graph-theory/)
 
+## Graph Theory I
+
 <details>
   
   <summary>List contains 32 problems (click to expand)</summary>
   
   <br>
 
-## Graph Theory I
 + 733\. Flood Fill	
 + 200\. Number of Islands	
 + 695\. Max Area of Island	
@@ -660,13 +663,14 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 # [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
 
+## Dynamic Programming I
+
 <details>
   
   <summary>List contains 46 problems (click to expand)</summary>
   
   <br>
 
-## Dynamic Programming I
 + 509\. Fibonacci Number
 + 1137\. N-th Tribonacci Number
 + 70\. Climbing Stairs
@@ -908,7 +912,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details>
 
-# Binary Search 
+# [Binary Search](https://leetcode.com/study-plan/binary-search/)
 
 ## Binary Search I
 
