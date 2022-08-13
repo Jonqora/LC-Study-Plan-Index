@@ -26,8 +26,8 @@
   - **[Binary Search III](#binary-search-iii)**
 - [LeetCode 75](#leetcode-75) (not yet listed)
   - [LeetCode 75 I](#leetcode-75-i)
-  - [LeetCode 75 II](#binary-search-ii)
-  - **[Binary Search III](#binary-search-iii)**
+  - [LeetCode 75 II](#leetcode-75-ii)
+  - **[LeetCode 75 III](#leetcode-75-iii)**
 - [SQL](#sql) (not yet listed)
   - [SQL I](#sql-i)
   - [SQL II](#sql-ii)
