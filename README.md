@@ -50,7 +50,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Programming Skills I
 
-[Cloneable leetcode list for Programming Skills I](https://leetcode.com/list/e26hp89c)
+[Cloneable list for Programming Skills I](https://leetcode.com/list/e26hp89c) 📊
 
 <details markdown="1">
   
@@ -95,7 +95,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Programming Skills II
 
-[Cloneable leetcode list for Programming Skills II](https://leetcode.com/list/e2feacm6)
+[Cloneable list for Programming Skills II](https://leetcode.com/list/e2feacm6) 📊
 
 <details markdown="1">
   
@@ -215,7 +215,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Data Structure I
 
-[Cloneable leetcode list for Data Structure I](https://leetcode.com/list/edl4brtv)
+[Cloneable list for Data Structure I](https://leetcode.com/list/edl4brtv) 📊
 
 <details markdown="1">
   
@@ -259,7 +259,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Data Structure II
 
-[Cloneable leetcode list for Data Structure II](https://leetcode.com/list/empknwae)
+[Cloneable list for Data Structure II](https://leetcode.com/list/empknwae) 📊
 
 <details markdown="1">
   
@@ -394,7 +394,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Algorithm I
 
-[Cloneable leetcode list for Algorithm I](https://leetcode.com/list/edl45xyt)
+[Cloneable list for Algorithm I](https://leetcode.com/list/edl45xyt) 📊
 
 <details markdown="1">
   
@@ -436,7 +436,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Algorithm II
 
-[Cloneable leetcode list for Algorithm II](https://leetcode.com/list/empkgb8i)
+[Cloneable list for Algorithm II](https://leetcode.com/list/empkgb8i) 📊
 
 <details markdown="1">
   
@@ -568,7 +568,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Graph Theory I
 
-[Cloneable leetcode list for Graph Theory I](https://leetcode.com/list/empgid01)
+[Cloneable list for Graph Theory I](https://leetcode.com/list/empgid01) 📊
 
 <details markdown="1">
   
@@ -678,7 +678,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Dynamic Programming I
 
-[Cloneable leetcode list for Dynamic Programming I](https://leetcode.com/list/eo5bvrb3)
+[Cloneable list for Dynamic Programming I](https://leetcode.com/list/eo5bvrb3) 📊
 
 <details markdown="1">
   
@@ -926,7 +926,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Binary Search I
 
-[Cloneable leetcode list for Binary Search I](https://leetcode.com/list/e26qz0ws)
+[Cloneable list for Binary Search I](https://leetcode.com/list/e26qz0ws) 📊
 
 <details markdown="1">
   
@@ -960,7 +960,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Binary Search II
 
-[Cloneable leetcode list for Binary Search II](https://leetcode.com/list/emp6i5lt)
+[Cloneable list for Binary Search II](https://leetcode.com/list/emp6i5lt) 📊
 
 <details markdown="1">
   
@@ -1072,7 +1072,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Level 1
 
-[Cloneable leetcode list for Level 1](https://leetcode.com/list/e2qurej7)
+[Cloneable list for Level 1](https://leetcode.com/list/e2qurej7) 📊
 
 <details markdown="1">
   
@@ -1113,7 +1113,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## Level 2
 
-[Cloneable leetcode list for Level 2](https://leetcode.com/list/e2fpahgr)
+[Cloneable list for Level 2](https://leetcode.com/list/e2fpahgr) 📊
 
 <details markdown="1">
   
@@ -1248,7 +1248,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 
 ## SQL I
 
-[Cloneable leetcode list for SQL I](https://leetcode.com/list/e2srjn0j)
+[Cloneable list for SQL I](https://leetcode.com/list/e2srjn0j) 📊
 
 <details markdown="1">
   
