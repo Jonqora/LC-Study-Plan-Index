@@ -39,7 +39,7 @@
   - **[SQL II](#sql-ii)**
   - **[SQL III](#sql-iii)**
 
-asterisks ** or **bold links** denote premium-only plans
+stars ⭐ or **bold links** denote premium-only plans
 
 asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programming marked so far)
   
@@ -147,7 +147,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
-## Programming Skills III\*\*
+## Programming Skills III ⭐
 
 <details markdown="1">
   
@@ -320,7 +320,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
-## Data Structure III\*\*
+## Data Structure III ⭐
 
 <details markdown="1">
   
@@ -494,7 +494,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
-## Algorithm III\*\*
+## Algorithm III ⭐
 
 <details markdown="1">
   
@@ -611,7 +611,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
-## Graph Theory II\*\*
+## Graph Theory II ⭐
 
 <details markdown="1">
   
@@ -735,7 +735,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
-## Dynamic Programming II\*\*
+## Dynamic Programming II ⭐
 
 <details markdown="1">
   
@@ -793,7 +793,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
-## Dynamic Programming III\*\*
+## Dynamic Programming III ⭐
 
 <details markdown="1">
   
@@ -852,7 +852,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 </details><br/>
 
-## Dynamic Programming IV\*\*
+## Dynamic Programming IV ⭐
 
 <details markdown="1">
   
@@ -1011,7 +1011,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 </details><br/>
 
-## Binary Search III\*\*
+## Binary Search III ⭐
 
 <details markdown="1">
   
@@ -1169,7 +1169,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
-## Level 3\*\*
+## Level 3 ⭐
 
 <details markdown="1">
   
@@ -1292,7 +1292,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 </details><br/>
 
-## SQL II\*\*
+## SQL II ⭐
 
 <details markdown="1">
   
@@ -1339,7 +1339,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 </details><br/>
 
-## SQL III\*\*
+## SQL III ⭐
 
 <details markdown="1">
   
