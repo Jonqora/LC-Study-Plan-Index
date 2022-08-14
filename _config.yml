@@ -1,6 +1,13 @@
+title: leetcode-study-plans
+logo: 
+description: A handy collection of problems from all official LeetCode study plans.
+show_downloads: false
+google_analytics:
+
 theme: jekyll-theme-hacker
 
+highlighter: rouge
 markdown: kramdown 
-
 kramdown: 
   input: GFM
+  syntax-highlighter: rouge
