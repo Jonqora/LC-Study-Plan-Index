@@ -94,7 +94,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 41 problems (click to expand)</summary>
+  <summary>List contains 41 problems (click to expand)</summary><br/>
   
 + 896\. Monotonic Array
 + 28\. Implement strStr()
@@ -144,9 +144,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 54 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 54 problems (click to expand)</summary><br/>
   
 + 1634\. Add Two Polynomials Represented as Linked Lists
 + 369\. Plus One Linked List
@@ -203,7 +201,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1396\. Design Underground System
 + 715\. Range Module
   
-</details>
+</details><br/>
 
 # [Data Structure](https://leetcode.com/study-plan/data-structure/)
 
@@ -211,9 +209,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 33 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 33 problems (click to expand)</summary><br/>
 
 + 217\. Contains Duplicate	
 + 53\. Maximum Subarray	
@@ -249,15 +245,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 653\. Two Sum IV - Input is a BST	
 + 235\. Lowest Common Ancestor of a Binary Search Tree	
   
-</details>
+</details><br/>
 
 ## Data Structure II
 
 <details markdown="1">
   
-  <summary>List contains 50 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 50 problems (click to expand)</summary><br/>
   
 + 136\. Single Number
 + 169\. Majority Element
@@ -310,15 +304,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 451\. Sort Characters By Frequency
 + 973\. K Closest Points to Origin
   
-</details>
+</details><br/>
 
 ## Data Structure III\*\*
 
 <details markdown="1">
   
-  <summary>List contains 60 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 60 problems (click to expand)</summary><br/>
   
 + 325\. Maximum Size Subarray Sum Equals k
 + 1151\. Minimum Swaps to Group All 1's Together
@@ -381,7 +373,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 336\. Palindrome Pairs
 + 642\. Design Search Autocomplete System
   
-</details>
+</details><br/>
 
 # [Algorithm](https://leetcode.com/study-plan/algorithm/)
 
@@ -389,9 +381,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 31 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 31 problems (click to expand)</summary><br/>
 
 + 704\. Binary Search
 + 278\. First Bad Version
@@ -425,15 +415,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 190\. Reverse Bits
 + 136\. Single Number
   
-</details>
+</details><br/>
 
 ## Algorithm II
 
 <details markdown="1">
   
-  <summary>List contains 47 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 47 problems (click to expand)</summary><br/>
   
 + 34\. Find First and Last Position of Element in Sorted Array
 + 33\. Search in Rotated Sorted Array
@@ -483,15 +471,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 202\. Happy Number
 + 149\. Max Points on a Line
   
-</details>
+</details><br/>
 
 ## Algorithm III\*\*
 
 <details markdown="1">
   
-  <summary>List contains 60 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 60 problems (click to expand)</summary><br/>
   
 + 1060\. Missing Element in Sorted Array
 + 1901\. Find a Peak Element II
@@ -554,7 +540,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 715\. Range Module
 + 460\. LFU Cache
   
-</details>
+</details><br/>
 
 # [Graph Theory](https://leetcode.com/study-plan/graph-theory/)
 
@@ -562,7 +548,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 32 problems (click to expand)</summary>
+  <summary>List contains 32 problems (click to expand)</summary><br/>
   
   <br>
 
@@ -599,15 +585,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 886\. Possible Bipartition	
 + 785\. Is Graph Bipartite?	
   
-</details>
+</details><br/>
 
 ## Graph Theory II\*\*
 
 <details markdown="1">
   
-  <summary>List contains 53 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 53 problems (click to expand)</summary><br/>
   
 + 261\. Graph Valid Tree\*
 + 684\. Redundant Connection
@@ -663,7 +647,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1494\. Parallel Courses II
 + 1192\. Critical Connections in a Network
   
-</details>
+</details><br/>
 
 # [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
 
@@ -671,9 +655,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 46 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 46 problems (click to expand)</summary><br/>
 
 + 509\. Fibonacci Number
 + 1137\. N-th Tribonacci Number
@@ -722,15 +704,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 343\. Integer Break
 + 279\. Perfect Squares
   
-</details>
+</details><br/>
 
 ## Dynamic Programming II\*\*
 
 <details markdown="1">
   
-  <summary>List contains 49 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 49 problems (click to expand)</summary><br/>
   
 + 509\. Fibonacci Number	
 + 70\. Climbing Stairs	
@@ -782,15 +762,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 416\. Partition Equal Subset Sum
 + 494\. Target Sum
   
-</details>
+</details><br/>
 
 ## Dynamic Programming III\*\*
 
 <details markdown="1">
   
-  <summary>List contains 50 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 50 problems (click to expand)</summary><br/>
   
 + 1884\. Egg Drop With 2 Eggs and N Floors
 + 887\. Super Egg Drop
@@ -843,15 +821,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1273\. Delete Tree Nodes\*
 + 568\. Maximum Vacation Days\*
 
-</details>
+</details><br/>
 
 ## Dynamic Programming IV\*\*
 
 <details markdown="1">
   
-  <summary>List contains 60 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 60 problems (click to expand)</summary><br/>
   
 + 123\. Best Time to Buy and Sell Stock III
 + 188\. Best Time to Buy and Sell Stock IV
@@ -914,7 +890,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 471\. Encode String with Shortest Length\*
 + 1240\. Tiling a Rectangle with the Fewest Squares
   
-</details>
+</details><br/>
 
 # [Binary Search](https://leetcode.com/study-plan/binary-search/)
 
@@ -922,9 +898,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 23 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 23 problems (click to expand)</summary><br/>
   
 + 704\. Binary Search
 + 374\. Guess Number Higher or Lower
@@ -950,15 +924,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 33\. Search in Rotated Sorted Array
 + 153\. Find Minimum in Rotated Sorted Array
 
-</details>
+</details><br/>
 
 ## Binary Search II
 
 <details markdown="1">
   
-  <summary>List contains 40 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 40 problems (click to expand)</summary><br/>
   
 + 209\. Minimum Size Subarray Sum
 + 611\. Valid Triangle Number
@@ -1001,15 +973,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1201\. Ugly Number III
 + 911\. Online Election
 
-</details>
+</details><br/>
 
 ## Binary Search III\*\*
 
 <details markdown="1">
   
-  <summary>List contains 47 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 47 problems (click to expand)</summary><br/>
   
 + 1213\. Intersection of Three Sorted Arrays
 + 1099\. Two Sum Less Than K
@@ -1059,7 +1029,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1631\. Path With Minimum Effort
 + 1782\. Count Pairs Of Nodes++ +  
 
-</details>
+</details><br/>
 
 # [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/)
 
@@ -1067,9 +1037,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 30 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 30 problems (click to expand)</summary><br/>
 
 + 1480\. Running Sum of 1d Array
 + 724\. Find Pivot Index
@@ -1102,15 +1070,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1046\. Last Stone Weight
 + 692\. Top K Frequent Words
 
-</details>
+</details><br/>
 
 ## Level 2
 
 <details markdown="1">
   
-  <summary>List contains 45 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 45 problems (click to expand)</summary><br/>
   
 + 202\. Happy Number
 + 54\. Spiral Matrix
@@ -1158,15 +1124,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 39\. Combination Sum
 + 46\. Permutations
   
-</details>
+</details><br/>
 
 ## Level 3\*\*
 
 <details markdown="1">
   
-  <summary>List contains 65 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 65 problems (click to expand)</summary><br/>
   
 + 191\. Number of 1 Bits
 + 136\. Single Number
@@ -1234,7 +1198,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 15\. 3Sum
 + 215\. Kth Largest Element in an Array
   
-</details>
+</details><br/>
 
 # [SQL](https://leetcode.com/study-plan/sql/)
 
@@ -1242,9 +1206,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 33 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 33 problems (click to expand)</summary><br/>
   
 + 595\. Big Countries
 + 1757\. Recyclable and Low Fat Products
@@ -1280,15 +1242,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1587\. Bank Account Summary II
 + 1084\. Sales Analysis III
 
-</details>
+</details><br/>
 
 ## SQL II\*\*
 
 <details markdown="1">
   
-  <summary>List contains 38 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 38 problems (click to expand)</summary><br/>
   
 + 1699\. Number of Calls Between Two Persons
 + 1251\. Average Selling Price
@@ -1329,15 +1289,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 550\. Game Play Analysis IV
 + 262\. Trips and Users
 
-</details>
+</details><br/>
 
 ## SQL III\*\*
 
 <details markdown="1">
   
-  <summary>List contains 29 problems (click to expand)</summary>
-  
-  <br>
+  <summary>List contains 29 problems (click to expand)</summary><br/>
   
 + 1303\. Find the Team Size
 + 1308\. Running Total for Different Genders
@@ -1369,4 +1327,4 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 618\. Students Report By Geography
 + 2010\. The Number of Seniors and Juniors to Join the Company II
 
-</details>
+</details><br/>
