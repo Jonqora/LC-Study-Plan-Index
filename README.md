@@ -43,7 +43,9 @@ asterisks ** or **bold links** denote premium-only plans
 
 asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programming marked so far)
   
-</details>
+</details><br/>
+
+------------------------------------------------------------
 
 # [Programming Skills](https://leetcode.com/study-plan/programming-skills/)
 
@@ -202,6 +204,8 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 715\. Range Module
   
 </details><br/>
+
+------------------------------------------------------------
 
 # [Data Structure](https://leetcode.com/study-plan/data-structure/)
 
@@ -374,6 +378,8 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 642\. Design Search Autocomplete System
   
 </details><br/>
+
+============================================================
 
 # [Algorithm](https://leetcode.com/study-plan/algorithm/)
 
