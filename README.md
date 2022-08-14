@@ -1,4 +1,4 @@
-# Leetcode Study Plans
+# Leetcode Study Plan Index
 
 <details open markdown="1">
   
