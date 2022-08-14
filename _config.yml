@@ -1,1 +1,6 @@
 theme: jekyll-theme-modernist
+
+markdown: kramdown 
+
+kramdown: 
+  input: GFM
