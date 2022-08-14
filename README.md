@@ -564,7 +564,7 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
 ----------------------------------------
 <br/>
 
-# [Graph Theory](https://leetcode.com/study-plan/graph-theory/)
+# [Graph Theory](https://leetcode.com/study-plan/graph/)
 
 ## Graph Theory I
 
