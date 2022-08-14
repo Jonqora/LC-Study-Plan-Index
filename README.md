@@ -1,5 +1,11 @@
 # Leetcode Study Plans
 
+<details open markdown="1">
+  
+  <summary>Table of Contents (click to hide)</summary>
+  
+  <br>
+  
 - [Programming Skills](#programming-skills)
   - [Programming Skills I](#programming-skills-i)
   - [Programming Skills II](#programming-skills-ii)
@@ -36,6 +42,8 @@
 asterisks ** or **bold links** denote premium-only plans
 
 asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programming marked so far)
+  
+</details>
 
 # [Programming Skills](https://leetcode.com/study-plan/programming-skills/)
 
