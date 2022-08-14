@@ -43,11 +43,9 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details>
   
-  <summary>
-    
-    List contains 34 problems (click to expand)
+  <summary>List contains 34 problems (click to expand)</summary>
   
-  </summary>
+  <br>
   
 + 1523\. Count Odd Numbers in an Interval Range
 + 1491\. Average Salary Excluding the Minimum and Maximum Salary
@@ -90,16 +88,15 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details>
   
-  <summary>
-  List contains 41 problems (click to expand)
-  </summary>
+  <summary>List contains 41 problems (click to expand)</summary>
   
-  + 896\. Monotonic Array
-  + 28\. Implement strStr()
-  + 110\. Balanced Binary Tree
-  + 459\. Repeated Substring Pattern
-  + 150\. Evaluate Reverse Polish Notation
-
+  <br>
+  
++ 896\. Monotonic Array
++ 28\. Implement strStr()
++ 110\. Balanced Binary Tree
++ 459\. Repeated Substring Pattern
++ 150\. Evaluate Reverse Polish Notation
 + 66\. Plus One
 + 1367\. Linked List in Binary Tree
 + 43\. Multiply Strings
