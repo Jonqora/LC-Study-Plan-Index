@@ -549,8 +549,6 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 <details markdown="1">
   
   <summary>List contains 32 problems (click to expand)</summary><br/>
-  
-  <br>
 
 + 733\. Flood Fill	
 + 200\. Number of Islands	
