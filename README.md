@@ -51,10 +51,8 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 <details markdown="1">
   
-  <summary>List contains 34 problems (click to expand)</summary>
-  
-  <br>
-  
+  <summary>List contains 34 problems (click to expand)</summary><br/>
+    
 + 1523\. Count Odd Numbers in an Interval Range
 + 1491\. Average Salary Excluding the Minimum and Maximum Salary
 + 191\. Number of 1 Bits
@@ -90,15 +88,13 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1603\. Design Parking System
 + 303\. Range Sum Query - Immutable
   
-</details>
+</details><br/>
 
 ## Programming Skills II
 
 <details markdown="1">
   
   <summary>List contains 41 problems (click to expand)</summary>
-  
-  <br>
   
 + 896\. Monotonic Array
 + 28\. Implement strStr()
@@ -142,7 +138,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 622\. Design Circular Queue
 + 729\. My Calendar I
   
-</details>
+</details><br/>
 
 ## Programming Skills III\*\*
 
