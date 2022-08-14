@@ -41,7 +41,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Programming Skills I
 
-<details>
+<details markdown="1">
   
   <summary>List contains 34 problems (click to expand)</summary>
   
@@ -86,7 +86,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Programming Skills II
 
-<details>
+<details markdown="1">
   
   <summary>List contains 41 problems (click to expand)</summary>
   
@@ -138,7 +138,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Programming Skills III\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 54 problems (click to expand)</summary>
   
@@ -205,7 +205,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Data Structure I
 
-<details>
+<details markdown="1">
   
   <summary>List contains 33 problems (click to expand)</summary>
   
@@ -249,7 +249,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Data Structure II
 
-<details>
+<details markdown="1">
   
   <summary>List contains 50 problems (click to expand)</summary>
   
@@ -310,7 +310,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Data Structure III\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 60 problems (click to expand)</summary>
   
@@ -383,7 +383,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Algorithm I
 
-<details>
+<details markdown="1">
   
   <summary>List contains 31 problems (click to expand)</summary>
   
@@ -425,7 +425,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Algorithm II
 
-<details>
+<details markdown="1">
   
   <summary>List contains 47 problems (click to expand)</summary>
   
@@ -483,7 +483,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Algorithm III\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 60 problems (click to expand)</summary>
   
@@ -556,7 +556,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Graph Theory I
 
-<details>
+<details markdown="1">
   
   <summary>List contains 32 problems (click to expand)</summary>
   
@@ -599,7 +599,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Graph Theory II\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 53 problems (click to expand)</summary>
   
@@ -665,7 +665,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Dynamic Programming I
 
-<details>
+<details markdown="1">
   
   <summary>List contains 46 problems (click to expand)</summary>
   
@@ -722,7 +722,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Dynamic Programming II\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 49 problems (click to expand)</summary>
   
@@ -782,7 +782,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Dynamic Programming III\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 50 problems (click to expand)</summary>
   
@@ -843,7 +843,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Dynamic Programming IV\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 60 problems (click to expand)</summary>
   
@@ -916,7 +916,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Binary Search I
 
-<details>
+<details markdown="1">
   
   <summary>List contains 23 problems (click to expand)</summary>
   
@@ -950,7 +950,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Binary Search II
 
-<details>
+<details markdown="1">
   
   <summary>List contains 40 problems (click to expand)</summary>
   
@@ -1001,7 +1001,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Binary Search III\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 47 problems (click to expand)</summary>
   
@@ -1061,7 +1061,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Level 1
 
-<details>
+<details markdown="1">
   
   <summary>List contains 30 problems (click to expand)</summary>
   
@@ -1102,7 +1102,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Level 2
 
-<details>
+<details markdown="1">
   
   <summary>List contains 45 problems (click to expand)</summary>
   
@@ -1158,7 +1158,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## Level 3\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 65 problems (click to expand)</summary>
   
@@ -1236,7 +1236,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## SQL I
 
-<details>
+<details markdown="1">
   
   <summary>List contains 33 problems (click to expand)</summary>
   
@@ -1280,7 +1280,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## SQL II\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 38 problems (click to expand)</summary>
   
@@ -1329,7 +1329,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 
 ## SQL III\*\*
 
-<details>
+<details markdown="1">
   
   <summary>List contains 29 problems (click to expand)</summary>
   
