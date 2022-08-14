@@ -39,9 +39,7 @@
   - **[SQL II](#sql-ii-)** ⭐
   - **[SQL III](#sql-iii-)** ⭐
 
-stars ⭐ or **bold links** denote premium-only plans
-
-asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programming marked so far)
+stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory and Dynamic Programming marked so far)
   
 </details><br/>
 
@@ -617,19 +615,19 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
   <summary>List contains 53 problems (click to expand)</summary><br/>
   
-+ 261\. Graph Valid Tree\*
++ 261\. Graph Valid Tree ⭐
 + 684\. Redundant Connection
 + 685\. Redundant Connection II
 + 1579\. Remove Max Number of Edges to Keep Graph Fully Traversable
-+ 1101\. The Earliest Moment When Everyone Become Friends\*
++ 1101\. The Earliest Moment When Everyone Become Friends ⭐
 + 990\. Satisfiability of Equality Equations
-+ 1061\. Lexicographically Smallest Equivalent String\*
-+ 737\. Sentence Similarity II\*
-+ 1258\. Synonymous Sentences\*
++ 1061\. Lexicographically Smallest Equivalent String ⭐
++ 737\. Sentence Similarity II ⭐
++ 1258\. Synonymous Sentences ⭐
 + 1202\. Smallest String With Swaps
 + 721\. Accounts Merge
 + 839\. Similar String Groups
-+ 305\. Number of Islands II\*
++ 305\. Number of Islands II ⭐
 + 924\. Minimize Malware Spread
 + 928\. Minimize Malware Spread II
 + 1627\. Graph Connectivity With Threshold
@@ -638,14 +636,14 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 207\. Course Schedule
 + 210\. Course Schedule II
 + 310\. Minimum Height Trees
-+ 1136\. Parallel Courses\*
-+ 269\. Alien Dictionary\*
++ 1136\. Parallel Courses ⭐
++ 269\. Alien Dictionary ⭐
 + 1857\. Largest Color Value in a Directed Graph
 + 1591\. Strange Printer II
 + 1203\. Sort Items by Groups Respecting Dependencies
-+ 1135\. Connecting Cities With Minimum Cost\*
++ 1135\. Connecting Cities With Minimum Cost ⭐
 + 1584\. Min Cost to Connect All Points
-+ 1168\. Optimize Water Distribution in a Village\*
++ 1168\. Optimize Water Distribution in a Village ⭐
 + 778\. Swim in Rising Water
 + 1489\. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 + 787\. Cheapest Flights Within K Stops
@@ -654,19 +652,19 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1928\. Minimum Cost to Reach Destination in Time
 + 1368\. Minimum Cost to Make at Least One Valid Path in a Grid
 + 743\. Network Delay Time
-+ 505\. The Maze II\*
-+ 499\. The Maze III\*
++ 505\. The Maze II ⭐
++ 499\. The Maze III ⭐
 + 1334\. Find the City With the Smallest Number of Neighbors at a Threshold Distance
 + 1462\. Course Schedule IV
 + 1786\. Number of Restricted Paths From First to Last Node
-+ 323\. Number of Connected Components in an Undirected Graph\*
-+ 490\. The Maze\*
-+ 317\. Shortest Distance from All Buildings\*
++ 323\. Number of Connected Components in an Undirected Graph ⭐
++ 490\. The Maze ⭐
++ 317\. Shortest Distance from All Buildings ⭐
 + 1263\. Minimum Moves to Move a Box to Their Target Location
 + 1345\. Jump Game IV
 + 864\. Shortest Path to Get All Keys
 + 913\. Cat and Mouse
-+ 694\. Number of Distinct Islands\*
++ 694\. Number of Distinct Islands ⭐
 + 834\. Sum of Distances in Tree
 + 1494\. Parallel Courses II
 + 1192\. Critical Connections in a Network
@@ -753,9 +751,9 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 714\. Best Time to Buy and Sell Stock with Transaction Fee	
 + 309\. Best Time to Buy and Sell Stock with Cooldown	
 + 152\. Maximum Product Subarray	
-+ 487\. Max Consecutive Ones II\*
++ 487\. Max Consecutive Ones II ⭐
 + 376\. Wiggle Subsequence	
-+ 1746\. Maximum Subarray Sum After One Operation\*
++ 1746\. Maximum Subarray Sum After One Operation ⭐
 + 1230\. Toss Strange Coins	
 + 1143\. Longest Common Subsequence
 + 1035\. Uncrossed Lines	
@@ -767,21 +765,21 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 368\. Largest Divisible Subset	
 + 647\. Palindromic Substrings	
 + 5\. Longest Palindromic Substring	
-+ 1055\. Shortest Way to Form String\*
++ 1055\. Shortest Way to Form String ⭐
 + 516\. Longest Palindromic Subsequence	
 + 64\. Minimum Path Sum	
-+ 562\. Longest Line of Consecutive One in Matrix\*
-+ 1182\. Shortest Distance to Target Color\*
++ 562\. Longest Line of Consecutive One in Matrix ⭐
++ 1182\. Shortest Distance to Target Color ⭐
 + 343\. Integer Break	
 + 238\. Product of Array Except Self	
 + 139\. Word Break	
-+ 254\. Factor Combinations\*
++ 254\. Factor Combinations ⭐
 + 329\. Longest Increasing Path in a Matrix
 + 62\. Unique Paths	
 + 63\. Unique Paths II	
 + 576\. Out of Boundary Paths
 + 650\. 2 Keys Keyboard
-+ 361\. Bomb Enemy\*
++ 361\. Bomb Enemy ⭐
 + 96\. Unique Binary Search Trees
 + 1130\. Minimum Cost Tree From Leaf Values	
 + 322\. Coin Change
@@ -805,30 +803,30 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 188\. Best Time to Buy and Sell Stock IV
 + 1751\. Maximum Number of Events That Can Be Attended II
 + 1235\. Maximum Profit in Job Scheduling
-+ 1259\. Handshakes That Don't Cross\*
++ 1259\. Handshakes That Don't Cross ⭐
 + 1478\. Allocate Mailboxes
 + 115\. Distinct Subsequences
 + 435\. Non-overlapping Intervals
 + 452\. Minimum Number of Arrows to Burst Balloons
 + 72\. Edit Distance
-+ 1682\. Longest Palindromic Subsequence II\*
-+ 1062\. Longest Repeating Substring\*
++ 1682\. Longest Palindromic Subsequence II ⭐
++ 1062\. Longest Repeating Substring ⭐
 + 1092\. Shortest Common Supersequence
 + 10\. Regular Expression Matching
-+ 1216\. Valid Palindrome III\*
-+ 727\. Minimum Window Subsequence\*
++ 1216\. Valid Palindrome III ⭐
++ 727\. Minimum Window Subsequence ⭐
 + 741\. Cherry Pickup
 + 1463\. Cherry Pickup II
 + 140\. Word Break II
-+ 351\. Android Unlock Patterns\*
++ 351\. Android Unlock Patterns ⭐
 + 688\. Knight Probability in Chessboard
-+ 750\. Number Of Corner Rectangles\*
-+ 651\. 4 Keys Keyboard\*
-+ 634\. Find the Derangement of An Array\*
-+ 1692\. Count Ways to Distribute Candies\*
-+ 418\. Sentence Screen Fitting\*
++ 750\. Number Of Corner Rectangles ⭐
++ 651\. 4 Keys Keyboard ⭐
++ 634\. Find the Derangement of An Array ⭐
++ 1692\. Count Ways to Distribute Candies ⭐
++ 418\. Sentence Screen Fitting ⭐
 + 312\. Burst Balloons
-+ 1246\. Palindrome Removal\*
++ 1246\. Palindrome Removal ⭐
 + 40\. Combination Sum II
 + 983\. Minimum Cost For Tickets
 + 1049\. Last Stone Weight II
@@ -839,16 +837,16 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 464\. Can I Win
 + 1140\. Stone Game II
 + 698\. Partition to K Equal Sum Subsets
-+ 1066\. Campus Bikes II\*
++ 1066\. Campus Bikes II ⭐
 + 1434\. Number of Ways to Wear Different Hats to Each Other
 + 902\. Numbers At Most N Given Digit Set
 + 600\. Non-negative Integers without Consecutive Ones
-+ 1067\. Digit Count in Range\*
-+ 298\. Binary Tree Longest Consecutive Sequence\*
-+ 549\. Binary Tree Longest Consecutive Sequence II\*
-+ 333\. Largest BST Subtree\*
-+ 1273\. Delete Tree Nodes\*
-+ 568\. Maximum Vacation Days\*
++ 1067\. Digit Count in Range ⭐
++ 298\. Binary Tree Longest Consecutive Sequence ⭐
++ 549\. Binary Tree Longest Consecutive Sequence II ⭐
++ 333\. Largest BST Subtree ⭐
++ 1273\. Delete Tree Nodes ⭐
++ 568\. Maximum Vacation Days ⭐
 
 </details><br/>
 
@@ -862,12 +860,12 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 188\. Best Time to Buy and Sell Stock IV
 + 1751\. Maximum Number of Events That Can Be Attended II
 + 1235\. Maximum Profit in Job Scheduling
-+ 1259\. Handshakes That Don't Cross\*
++ 1259\. Handshakes That Don't Cross ⭐
 + 1478\. Allocate Mailboxes
 + 32\. Longest Valid Parentheses
 + 1105\. Filling Bookcase Shelves
 + 1277\. Count Square Submatrices with All Ones
-+ 361\. Bomb Enemy\*
++ 361\. Bomb Enemy ⭐
 + 1155\. Number of Dice Rolls With Target Sum
 + 1269\. Number of Ways to Stay in the Same Place After Some Steps
 + 1575\. Count All Possible Routes
@@ -883,7 +881,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1000\. Minimum Cost to Merge Stones
 + 664\. Strange Printer
 + 546\. Remove Boxes
-+ 294\. Flip Game II\*
++ 294\. Flip Game II ⭐
 + 1406\. Stone Game III
 + 1510\. Stone Game IV
 + 1140\. Stone Game II
@@ -899,7 +897,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1799\. Maximize Score After N Operations
 + 1815\. Maximum Number of Groups Getting Fresh Donuts
 + 1012\. Numbers With Repeated Digits
-+ 1067\. Digit Count in Range\*
++ 1067\. Digit Count in Range ⭐
 + 865\. Smallest Subtree with all the Deepest Nodes
 + 1372\. Longest ZigZag Path in a Binary Tree
 + 894\. All Possible Full Binary Trees
@@ -912,11 +910,11 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 446\. Arithmetic Slices II - Subsequence
 + 975\. Odd Even Jump
 + 1687\. Delivering Boxes from Storage to Ports
-+ 1055\. Shortest Way to Form String\*
++ 1055\. Shortest Way to Form String ⭐
 + 174\. Dungeon Game
 + 514\. Freedom Trail
 + 1473\. Paint House III
-+ 471\. Encode String with Shortest Length\*
++ 471\. Encode String with Shortest Length ⭐
 + 1240\. Tiling a Rectangle with the Fewest Squares
   
 </details><br/>
