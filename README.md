@@ -44,21 +44,21 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 <details>
   
   <summary>
-  List contains 34 problems (click to expand)
+    
+    List contains 34 problems (click to expand)
+  
   </summary>
   
-1523. Count Odd Numbers in an Interval Range
-1491. Average Salary Excluding the Minimum and Maximum Salary
-191. Number of 1 Bits
-1281. Subtract the Product and Sum of Digits of an Integer
-976. Largest Perimeter Triangle
-
-
-+ 1779. Find Nearest Point That Has the Same X or Y Coordinate
-+ 1822. Sign of the Product of an Array
-+ 1502. Can Make Arithmetic Progression From Sequence
-+ 202. Happy Number
-+ 1790. Check if One String Swap Can Make Strings Equal
++ 1523\. Count Odd Numbers in an Interval Range
++ 1491\. Average Salary Excluding the Minimum and Maximum Salary
++ 191\. Number of 1 Bits
++ 1281\. Subtract the Product and Sum of Digits of an Integer
++ 976\. Largest Perimeter Triangle
++ 1779\. Find Nearest Point That Has the Same X or Y Coordinate
++ 1822\. Sign of the Product of an Array
++ 1502\. Can Make Arithmetic Progression From Sequence
++ 202\. Happy Number
++ 1790\. Check if One String Swap Can Make Strings Equal
 + 589\. N-ary Tree Preorder Traversal
 + 496\. Next Greater Element I
 + 1232\. Check If It Is a Straight Line
