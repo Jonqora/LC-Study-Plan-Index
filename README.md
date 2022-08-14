@@ -379,7 +379,7 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 336\. Palindrome Pairs
 + 642\. Design Search Autocomplete System
   
-</details>
+</details><br/>
 
 ----------------------------------------
 <br/>
@@ -551,6 +551,9 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
+----------------------------------------
+<br/>
+
 # [Graph Theory](https://leetcode.com/study-plan/graph-theory/)
 
 ## Graph Theory I
@@ -655,6 +658,9 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1192\. Critical Connections in a Network
   
 </details><br/>
+
+----------------------------------------
+<br/>
 
 # [Dynamic Programming](https://leetcode.com/study-plan/dynamic-programming/)
 
@@ -899,6 +905,9 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
   
 </details><br/>
 
+----------------------------------------
+<br/>
+
 # [Binary Search](https://leetcode.com/study-plan/binary-search/)
 
 ## Binary Search I
@@ -1037,6 +1046,9 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 1782\. Count Pairs Of Nodes++ +  
 
 </details><br/>
+
+----------------------------------------
+<br/>
 
 # [LeetCode 75](https://leetcode.com/study-plan/leetcode-75/)
 
@@ -1206,6 +1218,9 @@ asterisk * denotes premium-only problems (only Graph Theory and Dynamic Programm
 + 215\. Kth Largest Element in an Array
   
 </details><br/>
+
+----------------------------------------
+<br/>
 
 # [SQL](https://leetcode.com/study-plan/sql/)
 
