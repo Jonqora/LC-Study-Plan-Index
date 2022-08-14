@@ -932,29 +932,29 @@ stars ⭐ denote premium-only plans (or premium-only problems: only Graph Theory
   
   <summary>List contains 23 problems (click to expand)</summary><br/>
   
-+ 704\. Binary Search
-+ 374\. Guess Number Higher or Lower
-+ 35\. Search Insert Position
-+ 852\. Peak Index in a Mountain Array
-+ 367\. Valid Perfect Square
-+ 1385\. Find the Distance Value Between Two Arrays
-+ 69\. Sqrt(x)
-+ 744\. Find Smallest Letter Greater Than Target
-+ 278\. First Bad Version
-+ 34\. Find First and Last Position of Element in Sorted Array
-+ 441\. Arranging Coins
-+ 1539\. Kth Missing Positive Number
-+ 167\. Two Sum II - Input Array Is Sorted
-+ 1608\. Special Array With X Elements Greater Than or Equal X
-+ 1351\. Count Negative Numbers in a Sorted Matrix
-+ 74\. Search a 2D Matrix
-+ 1337\. The K Weakest Rows in a Matrix
-+ 1346\. Check If N and Its Double Exist
-+ 350\. Intersection of Two Arrays II
-+ 633\. Sum of Square Numbers
-+ 1855\. Maximum Distance Between a Pair of Values
-+ 33\. Search in Rotated Sorted Array
-+ 153\. Find Minimum in Rotated Sorted Array
++ [[LeetCode]](https://leetcode.com/problems/binary-search/) 704\. Binary Search
++ [[LeetCode]](https://leetcode.com/problems/guess-number-higher-or-lower/) 374\. Guess Number Higher or Lower
++ [[LeetCode]](https://leetcode.com/problems/search-insert-position/) 35\. Search Insert Position
++ [[LeetCode]](https://leetcode.com/problems/peak-index-in-a-mountain-array/) 852\. Peak Index in a Mountain Array
++ [[LeetCode]](https://leetcode.com/problems/valid-perfect-square/) 367\. Valid Perfect Square
++ [[LeetCode]](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) 1385\. Find the Distance Value Between Two Arrays
++ [[LeetCode]](https://leetcode.com/problems/sqrtx/) 69\. Sqrt(x)
++ [[LeetCode]](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) 744\. Find Smallest Letter Greater Than Target
++ [[LeetCode]](https://leetcode.com/problems/first-bad-version/) 278\. First Bad Version
++ [[LeetCode]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) 34\. Find First and Last Position of Element in Sorted Array
++ [[LeetCode]](https://leetcode.com/problems/arranging-coins/) 441\. Arranging Coins
++ [[LeetCode]](https://leetcode.com/problems/kth-missing-positive-number/) 1539\. Kth Missing Positive Number
++ [[LeetCode]](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 167\. Two Sum II - Input Array Is Sorted
++ [[LeetCode]](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) 1608\. Special Array With X Elements Greater Than or Equal X
++ [[LeetCode]](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) 1351\. Count Negative Numbers in a Sorted Matrix
++ [[LeetCode]](https://leetcode.com/problems/search-a-2d-matrix/) 74\. Search a 2D Matrix
++ [[LeetCode]](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) 1337\. The K Weakest Rows in a Matrix
++ [[LeetCode]](https://leetcode.com/problems/check-if-n-and-its-double-exist/) 1346\. Check If N and Its Double Exist
++ [[LeetCode]](https://leetcode.com/problems/intersection-of-two-arrays-ii/) 350\. Intersection of Two Arrays II
++ [[LeetCode]](https://leetcode.com/problems/sum-of-square-numbers/) 633\. Sum of Square Numbers
++ [[LeetCode]](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) 1855\. Maximum Distance Between a Pair of Values
++ [[LeetCode]](https://leetcode.com/problems/search-in-rotated-sorted-array/) 33\. Search in Rotated Sorted Array
++ [[LeetCode]](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 153\. Find Minimum in Rotated Sorted Array
 
 </details><br/>
 
