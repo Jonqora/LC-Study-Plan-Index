@@ -9,35 +9,35 @@
 - [Programming Skills](#programming-skills)
   - [Programming Skills I](#programming-skills-i)
   - [Programming Skills II](#programming-skills-ii)
-  - **[Programming Skills III](#programming-skills-iii)**
+  - **[Programming Skills III](#programming-skills-iii-)** ⭐
 - [Data Structure](#data-structure)
   - [Data Structure I](#data-structure-i)
   - [Data Structure II](#data-structure-ii)
-  - **[Data Structure III](#data-structure-iii)**
+  - **[Data Structure III](#data-structure-iii-)** ⭐
 - [Algorithm](#algorithm)
   - [Algorithm I](#algorithm-i)
   - [Algorithm II](#algorithm-ii)
-  - **[Algorithm III](#algorithm-iii)**
+  - **[Algorithm III](#algorithm-iii-)** ⭐
 - [Graph Theory](#graph-theory)
   - [Graph Theory I](#graph-theory-i)
-  - **[Graph Theory II](#graph-theory-ii)**
+  - **[Graph Theory II](#graph-theory-ii-)** ⭐
 - [Dynamic Programming](#dynamic-programming)
   - [Dynamic Programming I](#dynamic-programming-i)
-  - **[Dynamic Programming II](#dynamic-programming-ii)**
-  - **[Dynamic Programming III](#dynamic-programming-iii)**
-  - **[Dynamic Programming IV](#dynamic-programming-iv)**
+  - **[Dynamic Programming II](#dynamic-programming-ii-)** ⭐
+  - **[Dynamic Programming III](#dynamic-programming-iii-)** ⭐
+  - **[Dynamic Programming IV](#dynamic-programming-iv-)** ⭐
 - [Binary Search](#binary-search)
   - [Binary Search I](#binary-search-i)
   - [Binary Search II](#binary-search-ii)
-  - **[Binary Search III](#binary-search-iii)**
+  - **[Binary Search III](#binary-search-iii-)** ⭐
 - [LeetCode 75](#leetcode-75)
   - [Level 1](#level-1)
   - [Level 2](#level-2)
-  - **[Level 3](#level-3)**
+  - **[Level 3](#level-3-)** ⭐
 - [SQL](#sql)
   - [SQL I](#sql-i)
-  - **[SQL II](#sql-ii)**
-  - **[SQL III](#sql-iii)**
+  - **[SQL II](#sql-ii-)** ⭐
+  - **[SQL III](#sql-iii-)** ⭐
 
 stars ⭐ or **bold links** denote premium-only plans
 
